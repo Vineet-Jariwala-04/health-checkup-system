@@ -1,0 +1,901 @@
+age,gender,systolic,diastolic,smoker,salt_intake,category
+43,Female,149,93,No,Moderate,Hypertension Stage 2
+81,Female,117,72,No,Low,Normal
+73,Female,111,72,No,Moderate,Normal
+31,Male,103,70,No,Moderate,Normal
+51,Female,111,68,No,Moderate,Normal
+42,Male,120,79,No,High,Elevated
+66,Female,149,87,No,High,Hypertension Stage 2
+50,Female,118,73,No,High,Normal
+63,Female,140,90,No,High,Hypertension Stage 2
+22,Male,128,75,No,Low,Elevated
+52,Female,186,107,No,Low,Hypertensive Crisis
+30,Male,140,87,No,High,Hypertension Stage 2
+19,Male,130,82,No,Moderate,Hypertension Stage 1
+55,Male,148,92,No,High,Hypertension Stage 2
+42,Male,126,85,No,High,Hypertension Stage 1
+35,Female,157,90,No,High,Hypertension Stage 2
+61,Male,127,84,No,Moderate,Hypertension Stage 1
+82,Female,145,91,No,Moderate,Hypertension Stage 2
+41,Male,123,82,Yes,High,Hypertension Stage 1
+45,Male,133,80,No,Moderate,Hypertension Stage 1
+28,Male,155,90,Yes,Moderate,Hypertension Stage 2
+75,Female,139,77,Yes,Low,Hypertension Stage 1
+45,Female,143,85,No,Moderate,Hypertension Stage 2
+62,Female,115,67,No,Low,Normal
+32,Female,119,73,Yes,Low,Normal
+25,Female,118,73,No,Moderate,Normal
+73,Male,118,65,No,Moderate,Normal
+82,Female,119,67,No,High,Normal
+58,Male,154,92,No,Low,Hypertension Stage 2
+45,Female,104,68,Yes,Low,Normal
+23,Female,142,90,No,Moderate,Hypertension Stage 2
+71,Female,102,68,No,High,Normal
+68,Male,85,56,Yes,Moderate,Normal
+77,Male,164,88,No,Moderate,Hypertension Stage 2
+19,Male,184,101,No,Moderate,Hypertensive Crisis
+21,Male,112,60,No,High,Normal
+26,Female,103,66,No,Low,Normal
+50,Female,169,102,Yes,Moderate,Hypertension Stage 2
+37,Female,121,79,No,Moderate,Elevated
+43,Female,147,94,No,Moderate,Hypertension Stage 2
+56,Female,116,74,Yes,High,Normal
+77,Male,109,65,No,High,Normal
+35,Male,136,90,No,Moderate,Hypertension Stage 2
+61,Male,106,62,No,Low,Normal
+36,Male,138,77,No,High,Hypertension Stage 1
+66,Female,125,76,Yes,Moderate,Elevated
+28,Male,111,67,Yes,Moderate,Normal
+65,Female,118,80,No,High,Hypertension Stage 1
+50,Female,175,110,No,Moderate,Hypertension Stage 2
+62,Female,115,69,No,Moderate,Normal
+58,Male,123,77,No,Low,Elevated
+26,Female,146,80,No,Moderate,Hypertension Stage 2
+51,Female,139,81,No,Low,Hypertension Stage 1
+19,Female,120,90,No,Moderate,Hypertension Stage 2
+52,Male,144,89,No,Moderate,Hypertension Stage 2
+37,Female,120,83,No,Low,Hypertension Stage 1
+68,Female,138,74,No,Low,Hypertension Stage 1
+77,Male,133,84,No,Moderate,Hypertension Stage 1
+56,Female,85,57,No,High,Normal
+57,Male,164,86,Yes,Moderate,Hypertension Stage 2
+52,Female,148,86,No,Low,Hypertension Stage 2
+49,Female,123,68,No,Moderate,Elevated
+22,Female,99,54,No,Low,Normal
+46,Male,138,81,Yes,Moderate,Hypertension Stage 1
+31,Male,89,62,No,Moderate,Normal
+75,Male,147,91,No,Low,Hypertension Stage 2
+83,Male,140,89,Yes,Moderate,Hypertension Stage 2
+38,Male,126,80,No,Low,Hypertension Stage 1
+35,Male,117,64,No,Low,Normal
+80,Male,156,79,No,Moderate,Hypertension Stage 2
+22,Male,116,63,No,Low,Normal
+57,Female,105,85,No,Low,Hypertension Stage 1
+53,Male,108,60,No,High,Normal
+39,Female,113,67,No,Moderate,Normal
+53,Female,104,60,No,High,Normal
+24,Female,113,74,No,Moderate,Normal
+76,Male,142,84,No,High,Hypertension Stage 2
+83,Female,150,87,No,Moderate,Hypertension Stage 2
+57,Female,112,52,Yes,Moderate,Normal
+23,Male,167,86,No,Moderate,Hypertension Stage 2
+55,Female,110,68,No,High,Normal
+68,Male,93,61,No,Moderate,Normal
+28,Female,159,97,No,Moderate,Hypertension Stage 2
+82,Male,94,62,No,Moderate,Normal
+67,Male,140,86,No,High,Hypertension Stage 2
+61,Male,152,92,No,Low,Hypertension Stage 2
+30,Male,135,81,No,Moderate,Hypertension Stage 1
+22,Male,173,93,Yes,Moderate,Hypertension Stage 2
+52,Female,142,76,No,Moderate,Hypertension Stage 2
+22,Female,174,91,No,Moderate,Hypertension Stage 2
+52,Female,112,69,No,Low,Normal
+46,Female,124,70,No,Moderate,Elevated
+35,Male,141,88,No,Low,Hypertension Stage 2
+62,Male,164,95,No,Moderate,Hypertension Stage 2
+69,Female,139,77,No,Low,Hypertension Stage 1
+53,Female,128,58,Yes,Moderate,Elevated
+84,Female,103,64,No,High,Normal
+37,Male,140,85,No,Moderate,Hypertension Stage 2
+37,Female,151,95,No,Low,Hypertension Stage 2
+66,Female,143,78,No,High,Hypertension Stage 2
+69,Female,145,84,No,Moderate,Hypertension Stage 2
+33,Female,144,87,No,Low,Hypertension Stage 2
+50,Female,147,94,No,Moderate,Hypertension Stage 2
+42,Female,136,89,No,Moderate,Hypertension Stage 1
+61,Female,116,74,No,High,Normal
+37,Male,125,70,Yes,Moderate,Elevated
+68,Female,109,75,No,High,Normal
+25,Male,106,75,No,High,Normal
+31,Female,120,62,No,Moderate,Elevated
+52,Female,85,60,Yes,Low,Normal
+75,Male,154,91,Yes,High,Hypertension Stage 2
+60,Male,179,90,No,Moderate,Hypertension Stage 2
+60,Male,115,72,No,Low,Normal
+77,Male,106,71,Yes,Moderate,Normal
+35,Male,138,92,Yes,Low,Hypertension Stage 2
+61,Female,113,64,No,Moderate,Normal
+74,Female,127,77,No,Moderate,Elevated
+56,Male,172,99,No,Moderate,Hypertension Stage 2
+19,Female,111,72,Yes,Moderate,Normal
+48,Female,189,113,No,Moderate,Hypertensive Crisis
+56,Female,134,74,Yes,High,Hypertension Stage 1
+48,Female,128,91,No,Low,Hypertension Stage 2
+64,Male,149,84,No,Moderate,Hypertension Stage 2
+65,Male,138,73,No,Moderate,Hypertension Stage 1
+77,Male,128,83,No,Moderate,Hypertension Stage 1
+75,Male,119,68,No,High,Normal
+45,Male,132,78,No,High,Hypertension Stage 1
+22,Female,165,100,No,Moderate,Hypertension Stage 2
+23,Female,121,80,Yes,Moderate,Hypertension Stage 1
+83,Male,132,74,No,Low,Hypertension Stage 1
+60,Male,110,62,No,Low,Normal
+18,Male,138,80,No,Moderate,Hypertension Stage 1
+25,Female,107,72,No,Moderate,Normal
+83,Female,124,76,Yes,Low,Elevated
+66,Male,120,71,No,High,Elevated
+67,Male,133,74,Yes,Low,Hypertension Stage 1
+84,Male,159,94,Yes,Low,Hypertension Stage 2
+84,Female,148,92,No,Moderate,Hypertension Stage 2
+75,Male,122,75,No,Moderate,Elevated
+81,Female,113,73,No,Moderate,Normal
+53,Male,102,65,No,High,Normal
+51,Female,177,107,No,High,Hypertension Stage 2
+28,Female,116,66,Yes,High,Normal
+61,Male,170,86,Yes,High,Hypertension Stage 2
+66,Female,131,80,No,Moderate,Hypertension Stage 1
+18,Female,164,94,No,High,Hypertension Stage 2
+51,Male,161,96,No,Moderate,Hypertension Stage 2
+42,Male,156,104,Yes,High,Hypertension Stage 2
+47,Male,161,100,No,Low,Hypertension Stage 2
+63,Female,157,89,No,High,Hypertension Stage 2
+38,Female,136,78,No,High,Hypertension Stage 1
+18,Female,182,105,Yes,Low,Hypertensive Crisis
+83,Female,184,98,No,High,Hypertensive Crisis
+27,Female,122,84,No,Low,Hypertension Stage 1
+39,Female,121,79,No,Moderate,Elevated
+56,Female,125,74,No,Moderate,Elevated
+46,Male,122,68,No,Low,Elevated
+23,Female,156,96,No,Low,Hypertension Stage 2
+66,Male,145,77,No,Low,Hypertension Stage 2
+81,Female,134,65,No,Moderate,Hypertension Stage 1
+76,Female,168,105,No,Low,Hypertension Stage 2
+53,Male,124,73,No,Low,Elevated
+31,Male,90,54,No,Moderate,Normal
+54,Male,147,82,No,Moderate,Hypertension Stage 2
+69,Male,147,83,Yes,Moderate,Hypertension Stage 2
+41,Male,157,94,No,High,Hypertension Stage 2
+61,Female,95,65,Yes,High,Normal
+42,Male,150,91,No,Low,Hypertension Stage 2
+44,Male,108,65,Yes,High,Normal
+48,Male,147,87,No,Moderate,Hypertension Stage 2
+73,Male,163,86,Yes,Moderate,Hypertension Stage 2
+21,Male,125,72,No,Moderate,Elevated
+64,Male,148,81,No,Low,Hypertension Stage 2
+19,Male,98,76,No,Moderate,Normal
+44,Male,123,79,No,High,Elevated
+23,Male,85,50,No,Moderate,Normal
+51,Male,142,74,No,Moderate,Hypertension Stage 2
+62,Female,121,69,Yes,Moderate,Elevated
+47,Male,144,76,No,Moderate,Hypertension Stage 2
+22,Female,88,56,No,Moderate,Normal
+73,Female,146,89,No,Moderate,Hypertension Stage 2
+41,Female,119,72,No,Moderate,Normal
+33,Male,161,100,No,Moderate,Hypertension Stage 2
+72,Female,133,74,No,High,Hypertension Stage 1
+76,Male,107,69,No,Low,Normal
+35,Male,124,72,No,Moderate,Elevated
+58,Male,118,63,Yes,Moderate,Normal
+80,Female,165,98,Yes,Moderate,Hypertension Stage 2
+40,Female,128,80,Yes,Low,Hypertension Stage 1
+54,Male,100,69,No,Moderate,Normal
+49,Male,133,80,No,Low,Hypertension Stage 1
+77,Female,134,61,Yes,Low,Hypertension Stage 1
+68,Female,117,68,Yes,Low,Normal
+47,Female,166,99,No,Low,Hypertension Stage 2
+43,Female,139,69,No,Moderate,Hypertension Stage 1
+69,Male,108,72,No,Low,Normal
+72,Male,137,85,No,High,Hypertension Stage 1
+72,Female,160,107,No,Moderate,Hypertension Stage 2
+35,Female,138,80,Yes,Moderate,Hypertension Stage 1
+20,Male,109,69,No,Low,Normal
+77,Female,112,77,Yes,Moderate,Normal
+26,Male,139,83,No,Low,Hypertension Stage 1
+66,Female,136,88,No,Low,Hypertension Stage 1
+72,Female,169,100,No,High,Hypertension Stage 2
+27,Male,156,96,Yes,Low,Hypertension Stage 2
+54,Male,159,88,Yes,Low,Hypertension Stage 2
+77,Female,151,75,No,Moderate,Hypertension Stage 2
+84,Male,131,81,No,Moderate,Hypertension Stage 1
+47,Male,129,77,No,Moderate,Elevated
+76,Male,85,59,No,Low,Normal
+49,Female,136,88,No,Low,Hypertension Stage 1
+76,Female,114,77,No,High,Normal
+20,Male,123,77,No,Moderate,Elevated
+24,Male,122,77,No,Moderate,Elevated
+70,Female,124,73,No,High,Elevated
+49,Female,127,65,No,Low,Elevated
+83,Male,127,79,No,Moderate,Elevated
+20,Female,156,87,No,Low,Hypertension Stage 2
+52,Female,107,64,No,Moderate,Normal
+83,Male,118,75,Yes,High,Normal
+46,Female,101,62,Yes,High,Normal
+70,Female,109,65,No,Low,Normal
+80,Female,128,74,No,Low,Elevated
+48,Female,121,84,No,Moderate,Hypertension Stage 1
+79,Female,113,68,Yes,Low,Normal
+82,Female,136,83,No,Moderate,Hypertension Stage 1
+71,Male,169,103,Yes,Moderate,Hypertension Stage 2
+60,Female,109,72,No,Moderate,Normal
+80,Male,135,88,Yes,Low,Hypertension Stage 1
+30,Female,151,87,Yes,Low,Hypertension Stage 2
+40,Male,107,74,No,Moderate,Normal
+22,Female,123,83,Yes,Low,Hypertension Stage 1
+52,Male,153,96,No,Low,Hypertension Stage 2
+29,Female,141,76,No,Moderate,Hypertension Stage 2
+67,Female,136,86,No,High,Hypertension Stage 1
+62,Male,124,77,No,Low,Elevated
+44,Female,157,84,No,High,Hypertension Stage 2
+35,Male,127,80,No,Low,Hypertension Stage 1
+50,Female,112,69,No,High,Normal
+37,Male,165,94,No,Moderate,Hypertension Stage 2
+46,Female,158,91,Yes,Low,Hypertension Stage 2
+24,Male,123,71,No,High,Elevated
+46,Female,129,76,Yes,High,Elevated
+51,Male,134,71,No,Moderate,Hypertension Stage 1
+63,Female,135,77,No,Moderate,Hypertension Stage 1
+61,Male,144,83,No,Low,Hypertension Stage 2
+34,Male,126,72,No,High,Elevated
+59,Female,132,83,No,Moderate,Hypertension Stage 1
+55,Female,118,65,No,High,Normal
+73,Male,150,79,Yes,Moderate,Hypertension Stage 2
+56,Male,123,71,No,Low,Elevated
+72,Female,124,78,No,Moderate,Elevated
+76,Male,134,84,No,Moderate,Hypertension Stage 1
+79,Male,104,74,No,Moderate,Normal
+35,Male,132,80,No,High,Hypertension Stage 1
+46,Female,157,96,No,High,Hypertension Stage 2
+30,Female,156,96,No,Moderate,Hypertension Stage 2
+26,Male,147,86,No,Low,Hypertension Stage 2
+77,Male,115,72,Yes,Moderate,Normal
+23,Male,185,106,No,Moderate,Hypertensive Crisis
+23,Male,145,82,Yes,Moderate,Hypertension Stage 2
+70,Female,142,88,Yes,Low,Hypertension Stage 2
+23,Male,128,73,No,Moderate,Elevated
+29,Female,146,93,No,Low,Hypertension Stage 2
+40,Male,135,89,Yes,High,Hypertension Stage 1
+43,Male,111,61,No,Moderate,Normal
+55,Male,131,78,No,Moderate,Hypertension Stage 1
+18,Male,108,69,No,High,Normal
+65,Male,146,88,No,High,Hypertension Stage 2
+49,Male,172,94,No,Moderate,Hypertension Stage 2
+49,Female,128,63,Yes,Low,Elevated
+76,Female,123,74,Yes,Moderate,Elevated
+31,Male,143,98,No,Moderate,Hypertension Stage 2
+74,Male,109,70,No,High,Normal
+81,Male,128,85,Yes,High,Hypertension Stage 1
+32,Male,128,80,No,Moderate,Hypertension Stage 1
+39,Female,114,80,No,Moderate,Hypertension Stage 1
+26,Male,141,87,No,Moderate,Hypertension Stage 2
+52,Male,113,71,No,High,Normal
+49,Female,107,73,No,Moderate,Normal
+23,Male,212,117,No,Moderate,Hypertensive Crisis
+25,Female,135,68,No,High,Hypertension Stage 1
+66,Female,97,63,No,Moderate,Normal
+52,Male,152,93,No,Low,Hypertension Stage 2
+23,Female,114,70,Yes,High,Normal
+72,Female,126,85,Yes,Low,Hypertension Stage 1
+31,Male,96,60,No,Low,Normal
+55,Male,127,74,No,Low,Elevated
+76,Female,122,74,No,High,Elevated
+72,Female,140,78,Yes,Moderate,Hypertension Stage 2
+65,Male,131,78,No,High,Hypertension Stage 1
+51,Male,124,73,No,Moderate,Elevated
+79,Female,124,70,Yes,Moderate,Elevated
+48,Female,178,104,No,Low,Hypertension Stage 2
+28,Male,134,91,No,Low,Hypertension Stage 2
+38,Female,115,63,No,Low,Normal
+62,Female,108,62,No,Moderate,Normal
+31,Female,141,81,Yes,Moderate,Hypertension Stage 2
+30,Male,122,75,No,High,Elevated
+21,Male,117,75,No,Moderate,Normal
+28,Male,113,75,Yes,Low,Normal
+44,Female,140,74,No,Moderate,Hypertension Stage 2
+67,Male,104,56,Yes,Moderate,Normal
+37,Female,90,54,No,Moderate,Normal
+22,Male,169,97,No,High,Hypertension Stage 2
+66,Female,118,69,No,Low,Normal
+84,Male,147,85,No,Moderate,Hypertension Stage 2
+46,Female,130,77,Yes,High,Hypertension Stage 1
+24,Female,101,67,No,Moderate,Normal
+56,Male,113,69,No,High,Normal
+80,Male,125,70,No,Moderate,Elevated
+63,Male,111,65,Yes,High,Normal
+25,Male,106,65,No,Moderate,Normal
+34,Female,122,83,No,Moderate,Hypertension Stage 1
+82,Female,144,87,No,Moderate,Hypertension Stage 2
+50,Female,166,101,No,Moderate,Hypertension Stage 2
+26,Female,136,79,No,Low,Hypertension Stage 1
+20,Female,85,55,No,High,Normal
+51,Male,136,81,No,High,Hypertension Stage 1
+56,Female,131,79,No,Moderate,Hypertension Stage 1
+46,Male,94,60,Yes,Low,Normal
+77,Male,121,69,No,Moderate,Elevated
+32,Female,169,91,No,Low,Hypertension Stage 2
+66,Male,85,50,Yes,Moderate,Normal
+53,Female,98,73,No,Moderate,Normal
+31,Male,132,67,No,Moderate,Hypertension Stage 1
+80,Male,121,75,No,Moderate,Elevated
+78,Female,158,87,No,High,Hypertension Stage 2
+47,Male,98,58,No,Moderate,Normal
+47,Female,177,103,No,Moderate,Hypertension Stage 2
+53,Male,105,61,Yes,Moderate,Normal
+22,Female,173,94,No,Low,Hypertension Stage 2
+32,Female,114,65,No,Low,Normal
+24,Female,144,87,No,Moderate,Hypertension Stage 2
+22,Female,128,71,No,Moderate,Elevated
+27,Male,100,52,Yes,Moderate,Normal
+42,Female,100,59,Yes,High,Normal
+77,Female,145,82,No,Moderate,Hypertension Stage 2
+18,Male,90,57,No,Low,Normal
+84,Male,174,101,No,Moderate,Hypertension Stage 2
+52,Female,117,66,Yes,Low,Normal
+29,Male,158,85,No,Low,Hypertension Stage 2
+41,Female,135,79,Yes,Low,Hypertension Stage 1
+33,Male,113,80,No,Low,Hypertension Stage 1
+63,Female,130,76,No,High,Hypertension Stage 1
+64,Male,119,72,No,Moderate,Normal
+62,Female,122,84,No,High,Hypertension Stage 1
+42,Male,131,74,No,Moderate,Hypertension Stage 1
+65,Male,91,50,No,Low,Normal
+58,Female,138,90,No,High,Hypertension Stage 2
+70,Female,90,66,No,Moderate,Normal
+78,Male,150,101,No,High,Hypertension Stage 2
+57,Male,120,76,No,Moderate,Elevated
+66,Female,132,100,No,Moderate,Hypertension Stage 2
+36,Female,159,94,No,Moderate,Hypertension Stage 2
+45,Female,114,78,No,Moderate,Normal
+26,Male,156,90,No,Low,Hypertension Stage 2
+26,Female,198,109,No,Low,Hypertensive Crisis
+71,Male,143,77,No,Moderate,Hypertension Stage 2
+75,Male,104,71,No,Moderate,Normal
+41,Male,143,88,No,High,Hypertension Stage 2
+37,Male,124,80,Yes,Moderate,Hypertension Stage 1
+31,Female,132,80,No,Moderate,Hypertension Stage 1
+71,Female,111,73,No,Moderate,Normal
+84,Male,165,95,No,Moderate,Hypertension Stage 2
+65,Female,122,67,No,Moderate,Elevated
+76,Female,137,83,No,Low,Hypertension Stage 1
+31,Female,152,78,No,Moderate,Hypertension Stage 2
+26,Female,95,61,No,High,Normal
+74,Male,85,50,No,High,Normal
+37,Female,148,76,No,Low,Hypertension Stage 2
+72,Male,105,66,No,Moderate,Normal
+72,Female,143,83,No,High,Hypertension Stage 2
+28,Male,109,70,No,High,Normal
+20,Female,100,56,No,Moderate,Normal
+75,Female,114,66,No,High,Normal
+50,Male,127,68,No,High,Elevated
+60,Female,85,58,No,High,Normal
+54,Female,102,57,No,Moderate,Normal
+83,Female,158,84,No,Low,Hypertension Stage 2
+72,Male,167,99,No,Moderate,Hypertension Stage 2
+60,Male,167,103,No,Moderate,Hypertension Stage 2
+29,Female,113,58,No,Moderate,Normal
+61,Male,139,85,No,High,Hypertension Stage 1
+70,Female,113,78,Yes,Moderate,Normal
+55,Male,190,108,No,Moderate,Hypertensive Crisis
+28,Male,142,79,No,High,Hypertension Stage 2
+47,Male,121,70,No,Moderate,Elevated
+52,Female,95,50,No,High,Normal
+73,Female,141,88,No,Moderate,Hypertension Stage 2
+74,Female,152,88,Yes,Moderate,Hypertension Stage 2
+29,Male,148,82,No,Low,Hypertension Stage 2
+49,Male,103,60,No,Low,Normal
+49,Male,154,105,No,Moderate,Hypertension Stage 2
+71,Male,161,91,No,Low,Hypertension Stage 2
+47,Male,106,77,No,Low,Normal
+79,Male,103,73,No,Moderate,Normal
+81,Male,128,82,No,Moderate,Hypertension Stage 1
+32,Male,102,56,No,High,Normal
+55,Male,141,87,Yes,Moderate,Hypertension Stage 2
+70,Female,134,74,No,Moderate,Hypertension Stage 1
+21,Male,120,72,Yes,Low,Elevated
+50,Female,151,87,No,High,Hypertension Stage 2
+27,Female,121,78,Yes,Low,Elevated
+58,Male,150,80,No,Moderate,Hypertension Stage 2
+29,Female,98,62,No,High,Normal
+29,Male,109,73,No,Moderate,Normal
+22,Female,169,88,No,High,Hypertension Stage 2
+62,Female,178,104,No,Low,Hypertension Stage 2
+39,Female,125,79,No,Low,Elevated
+28,Female,87,53,Yes,Moderate,Normal
+38,Female,157,92,No,Low,Hypertension Stage 2
+21,Male,161,87,Yes,High,Hypertension Stage 2
+76,Male,116,70,No,Low,Normal
+27,Female,159,92,No,Low,Hypertension Stage 2
+57,Female,140,77,Yes,Low,Hypertension Stage 2
+67,Male,117,56,No,High,Normal
+80,Male,121,75,No,Low,Elevated
+48,Female,147,78,Yes,Moderate,Hypertension Stage 2
+82,Female,150,87,Yes,Moderate,Hypertension Stage 2
+45,Male,129,72,Yes,Low,Elevated
+47,Male,100,59,No,Moderate,Normal
+64,Male,119,72,Yes,High,Normal
+52,Male,119,67,No,Moderate,Normal
+30,Female,112,64,Yes,Moderate,Normal
+59,Male,125,75,No,Moderate,Elevated
+64,Female,135,85,No,Moderate,Hypertension Stage 1
+68,Male,161,89,No,Moderate,Hypertension Stage 2
+74,Female,92,66,No,Low,Normal
+79,Male,113,64,Yes,Low,Normal
+39,Male,128,82,No,Moderate,Hypertension Stage 1
+51,Male,146,86,No,Moderate,Hypertension Stage 2
+26,Male,138,73,No,Moderate,Hypertension Stage 1
+19,Female,155,82,Yes,Moderate,Hypertension Stage 2
+28,Female,131,68,No,Moderate,Hypertension Stage 1
+51,Male,145,88,Yes,Moderate,Hypertension Stage 2
+64,Female,136,82,No,Low,Hypertension Stage 1
+47,Female,126,83,No,High,Hypertension Stage 1
+82,Male,176,94,No,Moderate,Hypertension Stage 2
+47,Male,91,62,Yes,Moderate,Normal
+30,Male,149,84,Yes,Low,Hypertension Stage 2
+53,Male,148,78,No,Low,Hypertension Stage 2
+70,Male,140,93,No,Moderate,Hypertension Stage 2
+68,Female,145,88,Yes,Low,Hypertension Stage 2
+34,Female,129,75,No,Moderate,Elevated
+40,Female,98,61,No,Low,Normal
+28,Female,104,62,Yes,Moderate,Normal
+76,Male,142,82,No,Moderate,Hypertension Stage 2
+46,Male,90,65,No,High,Normal
+28,Male,119,72,No,Moderate,Normal
+68,Male,140,77,No,Moderate,Hypertension Stage 2
+26,Female,146,95,No,High,Hypertension Stage 2
+75,Female,153,97,Yes,Moderate,Hypertension Stage 2
+25,Female,113,66,Yes,High,Normal
+72,Female,109,71,Yes,Moderate,Normal
+32,Male,116,66,Yes,High,Normal
+67,Female,145,96,No,Moderate,Hypertension Stage 2
+56,Female,142,81,No,Low,Hypertension Stage 2
+83,Female,145,83,No,Moderate,Hypertension Stage 2
+57,Female,117,71,No,High,Normal
+43,Female,169,103,No,Low,Hypertension Stage 2
+59,Male,102,58,No,High,Normal
+31,Female,141,83,No,High,Hypertension Stage 2
+30,Female,138,83,No,Moderate,Hypertension Stage 1
+51,Female,90,60,No,Moderate,Normal
+61,Male,125,73,No,High,Elevated
+40,Female,94,57,Yes,Low,Normal
+41,Female,151,91,No,Low,Hypertension Stage 2
+18,Male,85,63,No,Low,Normal
+53,Female,89,61,No,High,Normal
+61,Female,134,87,No,Moderate,Hypertension Stage 1
+20,Male,145,86,No,High,Hypertension Stage 2
+80,Female,118,74,No,Low,Normal
+27,Female,107,71,No,Moderate,Normal
+46,Female,124,69,No,High,Elevated
+28,Male,126,77,No,Moderate,Elevated
+50,Female,123,71,No,Moderate,Elevated
+48,Male,185,116,Yes,High,Hypertensive Crisis
+76,Female,152,84,No,High,Hypertension Stage 2
+18,Female,125,82,No,Low,Hypertension Stage 1
+70,Male,132,74,No,Moderate,Hypertension Stage 1
+48,Male,122,81,No,High,Hypertension Stage 1
+44,Female,140,78,Yes,Moderate,Hypertension Stage 2
+24,Male,112,64,No,Moderate,Normal
+57,Male,103,63,No,Moderate,Normal
+82,Male,124,82,No,High,Hypertension Stage 1
+58,Male,114,82,No,Moderate,Hypertension Stage 1
+49,Male,160,86,No,Low,Hypertension Stage 2
+40,Male,114,85,No,Low,Hypertension Stage 1
+83,Male,116,73,No,Moderate,Normal
+48,Female,102,64,No,Moderate,Normal
+55,Male,129,70,No,Low,Elevated
+39,Male,119,85,Yes,Moderate,Hypertension Stage 1
+53,Female,139,81,Yes,High,Hypertension Stage 1
+51,Male,132,76,No,Moderate,Hypertension Stage 1
+27,Female,110,73,No,High,Normal
+26,Male,186,103,No,Low,Hypertensive Crisis
+46,Male,172,94,No,Moderate,Hypertension Stage 2
+33,Female,115,55,No,Moderate,Normal
+63,Male,113,69,No,High,Normal
+29,Female,149,85,No,High,Hypertension Stage 2
+79,Female,126,70,No,Moderate,Elevated
+59,Female,130,77,No,Moderate,Hypertension Stage 1
+72,Female,138,75,No,Moderate,Hypertension Stage 1
+61,Male,140,88,No,High,Hypertension Stage 2
+59,Male,134,87,Yes,High,Hypertension Stage 1
+37,Male,128,65,No,High,Elevated
+39,Female,125,79,No,High,Elevated
+82,Male,147,79,No,High,Hypertension Stage 2
+46,Male,139,78,No,Moderate,Hypertension Stage 1
+46,Female,114,75,No,High,Normal
+32,Female,117,74,No,High,Normal
+25,Male,153,80,No,Moderate,Hypertension Stage 2
+30,Male,146,87,No,Moderate,Hypertension Stage 2
+41,Female,139,79,No,High,Hypertension Stage 1
+27,Male,133,85,No,Low,Hypertension Stage 1
+28,Female,131,85,No,Low,Hypertension Stage 1
+26,Female,124,88,No,High,Hypertension Stage 1
+83,Male,113,75,No,High,Normal
+84,Female,135,86,No,Moderate,Hypertension Stage 1
+50,Female,132,66,Yes,High,Hypertension Stage 1
+72,Male,131,79,No,Low,Hypertension Stage 1
+21,Female,94,64,No,High,Normal
+70,Male,127,85,No,Moderate,Hypertension Stage 1
+57,Female,144,84,Yes,High,Hypertension Stage 2
+30,Male,135,86,No,High,Hypertension Stage 1
+78,Female,170,99,No,Moderate,Hypertension Stage 2
+53,Male,194,112,No,Low,Hypertensive Crisis
+32,Female,145,78,Yes,Moderate,Hypertension Stage 2
+48,Male,123,86,No,Moderate,Hypertension Stage 1
+31,Female,136,72,No,Moderate,Hypertension Stage 1
+59,Male,112,74,Yes,Low,Normal
+77,Female,153,98,No,Moderate,Hypertension Stage 2
+48,Male,142,87,No,Moderate,Hypertension Stage 2
+58,Female,138,82,No,High,Hypertension Stage 1
+74,Male,89,56,No,High,Normal
+18,Male,143,86,No,Low,Hypertension Stage 2
+63,Male,164,98,No,High,Hypertension Stage 2
+67,Male,116,73,No,Moderate,Normal
+81,Male,137,84,No,Low,Hypertension Stage 1
+36,Male,155,102,No,Moderate,Hypertension Stage 2
+57,Female,129,74,Yes,Low,Elevated
+70,Male,152,86,Yes,Moderate,Hypertension Stage 2
+42,Female,166,89,No,Low,Hypertension Stage 2
+58,Male,121,66,Yes,Moderate,Elevated
+47,Male,125,85,No,High,Hypertension Stage 1
+45,Female,111,81,No,High,Hypertension Stage 1
+39,Female,175,101,No,High,Hypertension Stage 2
+29,Male,143,81,No,Low,Hypertension Stage 2
+81,Female,133,73,No,Low,Hypertension Stage 1
+26,Female,139,70,No,Moderate,Hypertension Stage 1
+20,Female,153,86,No,Low,Hypertension Stage 2
+27,Female,134,75,No,Moderate,Hypertension Stage 1
+47,Male,113,65,No,Moderate,Normal
+76,Male,107,68,No,Moderate,Normal
+55,Male,115,73,No,Moderate,Normal
+57,Male,102,59,No,Low,Normal
+40,Male,101,60,No,High,Normal
+29,Male,126,75,No,Low,Elevated
+30,Male,113,64,No,High,Normal
+39,Female,106,72,No,Moderate,Normal
+61,Male,119,69,Yes,Low,Normal
+52,Female,138,89,No,Moderate,Hypertension Stage 1
+41,Male,99,61,No,Low,Normal
+45,Male,137,75,No,Moderate,Hypertension Stage 1
+80,Male,150,84,No,Moderate,Hypertension Stage 2
+77,Female,121,76,No,Low,Elevated
+81,Male,142,85,No,High,Hypertension Stage 2
+55,Female,133,79,No,Low,Hypertension Stage 1
+44,Female,109,77,No,Moderate,Normal
+66,Female,162,99,No,High,Hypertension Stage 2
+24,Male,179,109,No,Moderate,Hypertension Stage 2
+52,Female,127,84,No,Low,Hypertension Stage 1
+67,Male,149,87,No,Moderate,Hypertension Stage 2
+21,Male,110,70,No,Low,Normal
+51,Male,113,71,No,Moderate,Normal
+26,Female,141,85,No,Moderate,Hypertension Stage 2
+39,Male,112,67,Yes,Low,Normal
+73,Male,143,74,No,High,Hypertension Stage 2
+66,Male,133,70,No,Low,Hypertension Stage 1
+26,Male,132,82,No,Moderate,Hypertension Stage 1
+38,Female,175,96,Yes,Moderate,Hypertension Stage 2
+33,Male,184,109,No,High,Hypertensive Crisis
+73,Female,107,55,No,High,Normal
+27,Male,104,66,Yes,Low,Normal
+58,Male,174,101,No,Low,Hypertension Stage 2
+24,Male,140,83,No,High,Hypertension Stage 2
+75,Female,119,81,Yes,Low,Hypertension Stage 1
+65,Female,148,78,No,Moderate,Hypertension Stage 2
+55,Male,169,91,No,Low,Hypertension Stage 2
+63,Male,101,60,No,Moderate,Normal
+23,Male,121,71,No,Moderate,Elevated
+19,Male,116,74,Yes,Low,Normal
+74,Female,143,79,No,Low,Hypertension Stage 2
+34,Female,111,68,No,High,Normal
+70,Male,122,75,No,High,Elevated
+77,Male,149,81,No,High,Hypertension Stage 2
+53,Male,130,73,No,High,Hypertension Stage 1
+47,Female,87,53,Yes,Moderate,Normal
+63,Male,162,83,No,Moderate,Hypertension Stage 2
+47,Male,135,79,No,Low,Hypertension Stage 1
+19,Female,158,93,No,Moderate,Hypertension Stage 2
+65,Female,168,87,No,Low,Hypertension Stage 2
+57,Male,198,111,No,Moderate,Hypertensive Crisis
+22,Male,168,95,Yes,Moderate,Hypertension Stage 2
+63,Female,101,73,No,Moderate,Normal
+39,Male,125,80,No,High,Hypertension Stage 1
+75,Male,103,61,No,High,Normal
+69,Male,160,93,No,Moderate,Hypertension Stage 2
+42,Male,134,74,No,High,Hypertension Stage 1
+39,Male,140,89,No,Moderate,Hypertension Stage 2
+44,Female,151,75,Yes,Moderate,Hypertension Stage 2
+63,Female,166,83,No,Moderate,Hypertension Stage 2
+80,Male,133,80,No,Low,Hypertension Stage 1
+22,Male,89,63,No,High,Normal
+48,Male,136,71,No,Moderate,Hypertension Stage 1
+57,Female,106,69,No,High,Normal
+26,Male,114,71,No,Low,Normal
+51,Female,145,89,No,Low,Hypertension Stage 2
+81,Male,143,84,No,Low,Hypertension Stage 2
+66,Male,85,62,No,Moderate,Normal
+61,Male,121,77,No,Moderate,Elevated
+18,Female,146,82,No,High,Hypertension Stage 2
+25,Female,134,90,No,Moderate,Hypertension Stage 2
+69,Male,124,71,No,High,Elevated
+21,Female,130,86,No,Moderate,Hypertension Stage 1
+44,Male,92,54,No,High,Normal
+25,Female,106,75,Yes,Low,Normal
+42,Male,150,77,No,Moderate,Hypertension Stage 2
+49,Male,96,61,No,High,Normal
+76,Female,173,106,No,High,Hypertension Stage 2
+26,Male,127,80,Yes,Low,Hypertension Stage 1
+25,Female,126,83,Yes,High,Hypertension Stage 1
+18,Male,136,86,Yes,Moderate,Hypertension Stage 1
+51,Male,105,69,No,Moderate,Normal
+57,Male,112,79,No,Low,Normal
+23,Female,138,98,No,Moderate,Hypertension Stage 2
+59,Female,116,58,No,High,Normal
+64,Female,105,63,No,High,Normal
+23,Male,162,92,No,Low,Hypertension Stage 2
+24,Female,115,78,No,Low,Normal
+26,Female,133,73,No,High,Hypertension Stage 1
+76,Female,103,64,No,Moderate,Normal
+55,Male,112,68,No,Low,Normal
+67,Female,116,64,Yes,Moderate,Normal
+65,Female,111,70,No,Moderate,Normal
+70,Male,149,84,No,Moderate,Hypertension Stage 2
+49,Male,105,81,Yes,Moderate,Hypertension Stage 1
+77,Male,142,89,No,Low,Hypertension Stage 2
+28,Male,150,89,No,High,Hypertension Stage 2
+73,Male,156,89,Yes,Low,Hypertension Stage 2
+68,Female,150,84,No,Moderate,Hypertension Stage 2
+70,Female,111,75,No,Moderate,Normal
+55,Female,124,70,No,High,Elevated
+38,Male,131,86,Yes,Moderate,Hypertension Stage 1
+63,Female,142,80,No,High,Hypertension Stage 2
+49,Male,157,81,No,High,Hypertension Stage 2
+65,Female,118,73,No,Low,Normal
+36,Male,155,103,No,Low,Hypertension Stage 2
+34,Male,144,73,No,Moderate,Hypertension Stage 2
+41,Male,118,75,No,Moderate,Normal
+52,Female,133,80,No,Low,Hypertension Stage 1
+49,Male,119,73,No,High,Normal
+20,Male,106,72,No,High,Normal
+74,Male,96,66,No,Low,Normal
+74,Male,154,93,No,High,Hypertension Stage 2
+25,Male,130,92,No,High,Hypertension Stage 2
+68,Male,103,68,No,Moderate,Normal
+21,Female,130,81,No,Low,Hypertension Stage 1
+70,Male,116,64,No,Moderate,Normal
+53,Male,166,89,No,Low,Hypertension Stage 2
+51,Male,162,91,No,Moderate,Hypertension Stage 2
+31,Male,111,74,No,Low,Normal
+73,Male,146,86,No,Moderate,Hypertension Stage 2
+64,Male,96,64,No,Moderate,Normal
+19,Female,148,90,Yes,Moderate,Hypertension Stage 2
+80,Female,134,81,Yes,Low,Hypertension Stage 1
+31,Female,104,62,No,Moderate,Normal
+33,Female,121,82,No,Moderate,Hypertension Stage 1
+66,Male,103,52,Yes,High,Normal
+20,Male,165,88,No,High,Hypertension Stage 2
+74,Female,177,101,No,Moderate,Hypertension Stage 2
+77,Female,128,65,No,Low,Elevated
+44,Male,124,68,No,Moderate,Elevated
+52,Male,123,71,No,Low,Elevated
+21,Male,164,81,No,Moderate,Hypertension Stage 2
+29,Female,108,58,No,Moderate,Normal
+58,Female,135,71,Yes,High,Hypertension Stage 1
+36,Female,128,80,Yes,High,Hypertension Stage 1
+51,Female,146,94,Yes,Low,Hypertension Stage 2
+32,Female,129,73,Yes,Moderate,Elevated
+74,Male,131,73,No,High,Hypertension Stage 1
+83,Female,85,61,No,High,Normal
+68,Female,132,82,No,Low,Hypertension Stage 1
+52,Female,149,76,No,Moderate,Hypertension Stage 2
+22,Female,138,91,Yes,High,Hypertension Stage 2
+66,Female,149,83,No,Moderate,Hypertension Stage 2
+84,Male,147,88,No,Moderate,Hypertension Stage 2
+60,Female,98,55,No,Moderate,Normal
+30,Female,122,68,No,Low,Elevated
+39,Female,103,50,Yes,Moderate,Normal
+23,Male,153,107,Yes,Moderate,Hypertension Stage 2
+72,Female,144,83,No,Moderate,Hypertension Stage 2
+83,Male,146,88,No,Low,Hypertension Stage 2
+53,Male,143,101,No,Low,Hypertension Stage 2
+58,Male,114,76,No,High,Normal
+74,Female,143,87,No,Moderate,Hypertension Stage 2
+60,Male,85,52,No,Moderate,Normal
+37,Male,99,65,No,High,Normal
+29,Female,119,70,No,Moderate,Normal
+63,Female,127,82,Yes,Moderate,Hypertension Stage 1
+55,Female,120,79,Yes,High,Elevated
+53,Female,142,79,No,Moderate,Hypertension Stage 2
+72,Female,142,83,No,Low,Hypertension Stage 2
+32,Female,118,83,No,High,Hypertension Stage 1
+56,Male,126,69,No,High,Elevated
+43,Female,120,66,No,Low,Elevated
+24,Male,109,62,No,Low,Normal
+57,Female,129,79,No,Moderate,Elevated
+28,Female,125,77,No,Moderate,Elevated
+77,Female,139,85,No,High,Hypertension Stage 1
+37,Female,124,77,No,Moderate,Elevated
+54,Male,187,86,No,High,Hypertensive Crisis
+69,Male,114,69,No,Moderate,Normal
+47,Male,123,75,No,Moderate,Elevated
+63,Male,115,80,No,Moderate,Hypertension Stage 1
+68,Female,106,73,No,Moderate,Normal
+74,Female,162,83,No,Low,Hypertension Stage 2
+30,Female,145,73,No,High,Hypertension Stage 2
+44,Female,91,65,No,Low,Normal
+64,Female,122,67,No,Low,Elevated
+61,Male,153,91,Yes,Moderate,Hypertension Stage 2
+82,Female,160,86,Yes,Moderate,Hypertension Stage 2
+67,Female,132,76,No,High,Hypertension Stage 1
+29,Female,119,75,No,High,Normal
+67,Male,88,59,No,High,Normal
+25,Female,145,85,Yes,Low,Hypertension Stage 2
+40,Male,146,72,No,Low,Hypertension Stage 2
+62,Female,85,50,No,High,Normal
+30,Female,109,60,No,Moderate,Normal
+47,Female,109,53,No,Moderate,Normal
+46,Male,105,54,No,High,Normal
+37,Male,125,70,No,Moderate,Elevated
+76,Female,109,73,No,Moderate,Normal
+36,Male,143,78,No,Moderate,Hypertension Stage 2
+68,Female,121,68,No,Low,Elevated
+71,Female,126,78,No,Low,Elevated
+19,Female,124,65,No,Moderate,Elevated
+84,Female,125,79,No,High,Elevated
+80,Female,115,74,No,Moderate,Normal
+38,Female,110,76,No,Moderate,Normal
+35,Male,163,90,No,Moderate,Hypertension Stage 2
+31,Male,127,85,No,Moderate,Hypertension Stage 1
+55,Male,95,62,No,Moderate,Normal
+30,Female,186,101,No,Low,Hypertensive Crisis
+52,Male,125,69,No,Moderate,Elevated
+83,Female,151,80,No,High,Hypertension Stage 2
+47,Male,89,65,No,Low,Normal
+32,Male,149,83,Yes,Moderate,Hypertension Stage 2
+26,Female,118,76,Yes,High,Normal
+66,Male,111,66,Yes,High,Normal
+44,Male,149,67,No,Moderate,Hypertension Stage 2
+60,Male,120,69,No,High,Elevated
+29,Female,109,80,No,Low,Hypertension Stage 1
+79,Male,124,69,No,Low,Elevated
+39,Female,136,74,No,Moderate,Hypertension Stage 1
+43,Male,138,88,Yes,Moderate,Hypertension Stage 1
+38,Male,138,73,No,Moderate,Hypertension Stage 1
+23,Male,126,81,No,Moderate,Hypertension Stage 1
+65,Female,85,61,No,Moderate,Normal
+63,Female,171,99,No,Moderate,Hypertension Stage 2
+43,Female,156,95,No,High,Hypertension Stage 2
+40,Male,174,98,No,Moderate,Hypertension Stage 2
+44,Female,158,91,No,Low,Hypertension Stage 2
+29,Female,119,78,Yes,Moderate,Normal
+64,Female,122,66,No,High,Elevated
+74,Male,96,65,No,Low,Normal
+43,Male,113,63,No,Moderate,Normal
+64,Male,164,91,Yes,High,Hypertension Stage 2
+73,Female,142,80,Yes,High,Hypertension Stage 2
+41,Female,138,83,No,High,Hypertension Stage 1
+60,Female,129,74,Yes,Moderate,Elevated
+37,Male,167,96,No,High,Hypertension Stage 2
+68,Male,150,94,No,Moderate,Hypertension Stage 2
+53,Female,134,75,No,Moderate,Hypertension Stage 1
+72,Male,123,75,No,High,Elevated
+30,Female,96,58,No,High,Normal
+27,Male,164,92,No,Moderate,Hypertension Stage 2
+32,Female,132,76,No,Moderate,Hypertension Stage 1
+43,Male,136,95,No,High,Hypertension Stage 2
+61,Male,115,65,No,Moderate,Normal
+81,Male,108,66,Yes,Low,Normal
+38,Male,134,75,No,High,Hypertension Stage 1
+43,Male,110,70,No,High,Normal
+22,Male,148,87,No,Low,Hypertension Stage 2
+68,Male,140,85,No,Moderate,Hypertension Stage 2
+34,Female,174,108,No,Moderate,Hypertension Stage 2
+53,Female,145,91,No,Moderate,Hypertension Stage 2
+58,Male,131,77,No,Low,Hypertension Stage 1
+37,Male,158,98,No,Moderate,Hypertension Stage 2
+73,Male,107,60,Yes,High,Normal
+34,Female,100,70,No,Moderate,Normal
+83,Female,108,75,No,Low,Normal
+31,Female,167,95,No,High,Hypertension Stage 2
+60,Male,118,78,No,Low,Normal
+74,Male,164,96,No,Low,Hypertension Stage 2
+82,Female,144,93,No,Low,Hypertension Stage 2
+77,Male,137,79,No,Moderate,Hypertension Stage 1
+55,Female,150,81,Yes,Moderate,Hypertension Stage 2
+65,Female,128,75,No,Moderate,Elevated
+83,Male,120,72,No,Moderate,Elevated
+55,Male,118,68,No,Low,Normal
+43,Female,134,74,Yes,Low,Hypertension Stage 1
+41,Female,168,111,Yes,Moderate,Hypertension Stage 2
+32,Male,147,79,Yes,High,Hypertension Stage 2
+46,Male,123,78,No,Low,Elevated
+46,Male,101,57,Yes,Moderate,Normal
+71,Female,188,102,No,Moderate,Hypertensive Crisis
+66,Female,146,96,No,Moderate,Hypertension Stage 2
+77,Female,159,101,No,Moderate,Hypertension Stage 2
+23,Male,124,76,No,Low,Elevated
+43,Female,126,69,No,Moderate,Elevated
+24,Male,159,100,No,Moderate,Hypertension Stage 2
+56,Male,110,71,No,Low,Normal
+23,Female,118,69,No,Low,Normal
+37,Male,121,73,No,Moderate,Elevated
+29,Male,113,76,No,High,Normal
+21,Female,128,73,No,Moderate,Elevated
+34,Female,141,78,Yes,Low,Hypertension Stage 2
+47,Female,107,74,No,High,Normal
+40,Male,100,69,No,High,Normal
+53,Male,105,63,Yes,Moderate,Normal
+77,Male,114,66,No,High,Normal
+30,Male,121,71,No,Moderate,Elevated
+22,Female,183,90,No,Low,Hypertensive Crisis
+22,Female,126,71,No,High,Elevated
+59,Female,152,81,Yes,Moderate,Hypertension Stage 2
+20,Male,122,60,No,High,Elevated
+20,Male,139,81,No,Low,Hypertension Stage 1
+72,Female,105,67,Yes,Moderate,Normal
+77,Female,109,68,No,Moderate,Normal
+26,Male,145,91,No,Moderate,Hypertension Stage 2
+74,Male,158,82,Yes,Low,Hypertension Stage 2
+75,Male,135,70,No,Moderate,Hypertension Stage 1
+39,Female,117,68,No,Moderate,Normal
+45,Female,123,79,No,Moderate,Elevated
+38,Female,129,76,No,Low,Elevated
+43,Female,102,59,No,Moderate,Normal
+26,Male,102,64,No,High,Normal
+45,Female,85,50,No,High,Normal
+48,Male,116,76,No,Moderate,Normal
+61,Male,154,75,Yes,High,Hypertension Stage 2
+63,Male,127,75,Yes,Low,Elevated
+61,Female,125,72,No,Moderate,Elevated
+51,Male,172,100,No,Low,Hypertension Stage 2
+33,Female,159,98,Yes,High,Hypertension Stage 2
+84,Male,135,81,Yes,Moderate,Hypertension Stage 1
+57,Female,119,79,No,Low,Normal
+25,Male,116,66,Yes,Moderate,Normal
+24,Male,134,75,No,High,Hypertension Stage 1
+55,Female,108,64,No,Low,Normal
+34,Male,142,80,No,Moderate,Hypertension Stage 2
+35,Female,104,62,No,Low,Normal
+38,Male,141,73,No,Moderate,Hypertension Stage 2
+45,Female,144,75,No,High,Hypertension Stage 2
+58,Female,136,76,No,Moderate,Hypertension Stage 1
+51,Female,146,86,No,Low,Hypertension Stage 2
+34,Female,127,72,Yes,Moderate,Elevated
+80,Male,99,64,No,Moderate,Normal
+55,Male,93,50,No,High,Normal
+82,Female,127,60,No,High,Elevated
+50,Male,128,84,No,Low,Hypertension Stage 1
+65,Female,116,68,No,Low,Normal
+37,Male,142,84,No,Moderate,Hypertension Stage 2
+60,Male,116,67,No,Low,Normal
+26,Male,86,61,No,Low,Normal
+23,Male,152,95,No,Low,Hypertension Stage 2
+26,Female,114,58,No,Moderate,Normal
+36,Male,140,80,No,Moderate,Hypertension Stage 2
+58,Female,92,59,No,Moderate,Normal
+62,Female,119,82,No,High,Hypertension Stage 1
+44,Female,130,87,No,Moderate,Hypertension Stage 1
+20,Female,127,69,Yes,Moderate,Elevated
+49,Male,123,72,No,Moderate,Elevated
+49,Female,154,89,No,High,Hypertension Stage 2
+53,Female,143,85,No,High,Hypertension Stage 2
+49,Female,117,73,No,Moderate,Normal
+40,Male,134,83,No,Low,Hypertension Stage 1
+56,Male,103,68,No,Low,Normal
+39,Male,123,81,No,High,Hypertension Stage 1
+69,Male,123,75,No,Moderate,Elevated
+43,Female,104,78,No,High,Normal
+78,Male,148,86,No,High,Hypertension Stage 2
+29,Female,153,96,No,Moderate,Hypertension Stage 2
+56,Female,128,79,No,High,Elevated
+46,Female,141,88,No,Moderate,Hypertension Stage 2
+79,Male,120,60,No,Moderate,Elevated
+30,Female,109,75,No,Moderate,Normal
+46,Female,121,66,No,Moderate,Elevated
+53,Male,120,68,No,Low,Elevated
