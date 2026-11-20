@@ -1,0 +1,11 @@
+# Never commit real credentials or the local database
+.env
+.flask_secret_key
+config/google_service_account.json
+*.db
+Google Sheets.txt
+.vscode/
+__pycache__/
+*.pyc
+venv/
+.venv/

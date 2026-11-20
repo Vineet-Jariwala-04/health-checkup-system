@@ -1,0 +1,12 @@
+flask
+streamlit>=1.36
+pandas
+numpy
+altair
+scikit-learn
+joblib
+werkzeug
+reportlab
+gspread
+google-auth
+requests

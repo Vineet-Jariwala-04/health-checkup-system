@@ -1,0 +1,901 @@
+age,test_type,sugar_level,frequent_urination,excessive_thirst,fatigue,category
+82,Fasting,99.0,Yes,No,No,Normal
+69,Random (Postprandial),71.0,No,No,No,Normal
+37,Fasting,147.0,No,No,Yes,Diabetic
+44,Random (Postprandial),130.0,No,No,Yes,Normal
+56,HbA1c,4.3,Yes,No,Yes,Normal
+50,Random (Postprandial),118.0,Yes,No,No,Normal
+40,Random (Postprandial),209.0,Yes,Yes,Yes,Diabetic
+45,Fasting,150.0,No,No,Yes,Diabetic
+23,Fasting,143.0,No,Yes,Yes,Diabetic
+37,Fasting,81.0,No,No,No,Normal
+84,Random (Postprandial),143.0,Yes,Yes,No,Prediabetic
+76,Random (Postprandial),224.0,No,No,Yes,Diabetic
+47,Fasting,83.0,Yes,No,No,Normal
+58,Fasting,95.0,No,No,No,Normal
+60,Fasting,76.0,No,No,No,Normal
+75,HbA1c,4.7,No,Yes,No,Normal
+57,Fasting,141.0,No,No,No,Diabetic
+19,Fasting,124.0,No,No,No,Prediabetic
+17,HbA1c,6.5,Yes,Yes,No,Prediabetic
+84,Fasting,122.0,No,Yes,No,Prediabetic
+62,Random (Postprandial),196.0,No,Yes,Yes,Prediabetic
+70,HbA1c,7.7,No,No,Yes,Diabetic
+37,Fasting,105.0,No,Yes,No,Prediabetic
+39,Random (Postprandial),135.0,No,No,Yes,Normal
+63,HbA1c,4.9,No,Yes,Yes,Normal
+80,Fasting,137.0,No,No,Yes,Diabetic
+76,Random (Postprandial),127.0,No,No,No,Normal
+84,Random (Postprandial),83.0,No,Yes,Yes,Normal
+47,Random (Postprandial),138.0,No,No,No,Normal
+83,Fasting,106.0,No,No,No,Prediabetic
+35,Fasting,130.0,No,Yes,Yes,Diabetic
+78,Fasting,135.0,Yes,No,Yes,Diabetic
+46,Fasting,83.0,Yes,Yes,No,Normal
+63,Fasting,81.0,No,Yes,Yes,Normal
+47,Fasting,95.0,No,No,No,Normal
+64,Random (Postprandial),95.0,No,No,No,Normal
+67,Random (Postprandial),145.0,No,Yes,No,Prediabetic
+42,Fasting,119.0,No,No,Yes,Prediabetic
+38,Random (Postprandial),152.0,No,No,Yes,Prediabetic
+25,Fasting,60.0,No,No,Yes,Normal
+53,Fasting,69.0,No,No,Yes,Normal
+23,Fasting,144.0,Yes,Yes,No,Diabetic
+25,Random (Postprandial),104.0,No,Yes,No,Normal
+18,Fasting,127.0,Yes,No,No,Diabetic
+72,Fasting,124.0,No,Yes,Yes,Prediabetic
+45,Random (Postprandial),136.0,No,No,No,Normal
+70,Fasting,75.0,Yes,Yes,Yes,Normal
+81,HbA1c,6.2,Yes,No,Yes,Prediabetic
+15,Fasting,78.0,Yes,No,Yes,Normal
+64,Random (Postprandial),142.0,No,No,No,Prediabetic
+52,Fasting,108.0,No,No,No,Prediabetic
+48,Fasting,83.0,Yes,No,Yes,Normal
+20,Random (Postprandial),140.0,No,No,No,Normal
+34,Random (Postprandial),136.0,Yes,No,No,Normal
+17,Fasting,68.0,Yes,No,Yes,Normal
+41,Fasting,99.0,No,No,No,Normal
+20,Fasting,86.0,No,Yes,No,Normal
+69,Random (Postprandial),70.0,Yes,Yes,No,Normal
+26,Random (Postprandial),135.0,No,Yes,No,Normal
+76,Random (Postprandial),137.0,Yes,No,Yes,Normal
+62,HbA1c,5.3,No,No,Yes,Normal
+53,Random (Postprandial),70.0,Yes,Yes,No,Normal
+61,Fasting,128.0,No,Yes,No,Diabetic
+35,Fasting,126.0,No,No,No,Prediabetic
+18,Random (Postprandial),179.0,No,No,No,Prediabetic
+71,Fasting,115.0,Yes,Yes,No,Prediabetic
+83,HbA1c,4.6,No,No,No,Normal
+76,HbA1c,6.1,No,No,No,Prediabetic
+21,Random (Postprandial),108.0,Yes,Yes,No,Normal
+38,Fasting,171.0,No,No,Yes,Diabetic
+63,Random (Postprandial),127.0,No,No,No,Normal
+51,Fasting,125.0,No,Yes,No,Prediabetic
+22,Fasting,60.0,Yes,No,No,Normal
+62,Fasting,70.0,No,No,No,Normal
+21,Random (Postprandial),126.0,No,Yes,No,Normal
+26,Fasting,126.0,Yes,No,No,Diabetic
+84,Fasting,121.0,No,No,Yes,Prediabetic
+44,Fasting,114.0,No,No,No,Prediabetic
+76,Fasting,60.0,No,No,Yes,Normal
+44,Fasting,139.0,Yes,Yes,Yes,Diabetic
+66,Fasting,77.0,Yes,No,Yes,Normal
+57,Fasting,153.0,No,No,Yes,Diabetic
+67,Fasting,161.0,No,No,No,Diabetic
+69,Random (Postprandial),187.0,No,Yes,Yes,Prediabetic
+37,Random (Postprandial),194.0,No,No,No,Prediabetic
+31,Random (Postprandial),93.0,No,No,Yes,Normal
+82,Fasting,182.0,Yes,No,Yes,Diabetic
+65,Random (Postprandial),160.0,No,No,No,Prediabetic
+41,HbA1c,7.1,No,No,No,Diabetic
+76,Random (Postprandial),111.0,No,Yes,No,Normal
+52,Random (Postprandial),147.0,No,No,Yes,Prediabetic
+23,HbA1c,4.7,No,No,No,Normal
+80,Fasting,98.0,Yes,No,Yes,Normal
+46,HbA1c,6.0,Yes,No,Yes,Prediabetic
+56,Fasting,113.0,No,Yes,Yes,Prediabetic
+61,Fasting,147.0,No,Yes,Yes,Diabetic
+45,Random (Postprandial),172.0,Yes,No,No,Prediabetic
+19,Random (Postprandial),161.0,Yes,Yes,No,Prediabetic
+71,Fasting,106.0,No,No,Yes,Prediabetic
+63,Random (Postprandial),240.0,No,No,No,Diabetic
+72,Fasting,88.0,Yes,No,Yes,Normal
+64,Fasting,141.0,No,No,Yes,Diabetic
+24,Random (Postprandial),70.0,Yes,No,Yes,Normal
+41,Fasting,79.0,No,No,No,Normal
+44,Random (Postprandial),168.0,No,Yes,No,Prediabetic
+67,Random (Postprandial),143.0,No,No,No,Prediabetic
+34,Random (Postprandial),285.0,Yes,No,Yes,Diabetic
+83,Random (Postprandial),266.0,No,No,No,Diabetic
+56,Fasting,60.0,No,No,No,Normal
+30,Fasting,73.0,No,No,No,Normal
+39,Fasting,101.0,No,No,No,Prediabetic
+44,Fasting,157.0,No,Yes,Yes,Diabetic
+16,Random (Postprandial),201.0,No,Yes,Yes,Diabetic
+73,Random (Postprandial),165.0,No,No,Yes,Prediabetic
+34,Random (Postprandial),86.0,Yes,Yes,Yes,Normal
+61,HbA1c,5.1,Yes,No,No,Normal
+82,Fasting,60.0,No,No,No,Normal
+47,Fasting,60.0,Yes,No,Yes,Normal
+15,Random (Postprandial),169.0,No,No,Yes,Prediabetic
+71,Fasting,129.0,No,No,No,Diabetic
+39,Fasting,66.0,No,No,No,Normal
+49,Random (Postprandial),155.0,No,No,No,Prediabetic
+35,Fasting,154.0,No,No,Yes,Diabetic
+70,Random (Postprandial),158.0,Yes,No,No,Prediabetic
+67,HbA1c,5.7,No,No,No,Normal
+82,Fasting,123.0,No,No,No,Prediabetic
+28,Random (Postprandial),174.0,No,No,Yes,Prediabetic
+47,Random (Postprandial),154.0,No,Yes,No,Prediabetic
+30,HbA1c,5.4,No,No,Yes,Normal
+80,Fasting,92.0,No,No,Yes,Normal
+47,Fasting,108.0,Yes,No,No,Prediabetic
+16,HbA1c,5.4,No,No,No,Normal
+76,HbA1c,7.5,No,No,No,Diabetic
+16,Fasting,132.0,Yes,Yes,Yes,Diabetic
+29,Fasting,138.0,No,Yes,Yes,Diabetic
+23,Random (Postprandial),241.0,No,Yes,No,Diabetic
+34,Random (Postprandial),221.0,Yes,No,Yes,Diabetic
+18,Fasting,148.0,No,Yes,No,Diabetic
+38,Random (Postprandial),167.0,No,No,No,Prediabetic
+58,Random (Postprandial),142.0,No,Yes,Yes,Prediabetic
+80,Random (Postprandial),254.0,No,Yes,Yes,Diabetic
+62,Fasting,85.0,Yes,No,No,Normal
+38,Fasting,87.0,Yes,No,No,Normal
+70,Fasting,79.0,No,No,Yes,Normal
+74,Random (Postprandial),160.0,No,No,Yes,Prediabetic
+42,Fasting,118.0,Yes,No,No,Prediabetic
+25,Fasting,136.0,No,Yes,Yes,Diabetic
+46,Fasting,98.0,No,No,No,Normal
+71,Fasting,60.0,No,Yes,No,Normal
+18,Fasting,115.0,No,No,No,Prediabetic
+67,Fasting,134.0,Yes,Yes,No,Diabetic
+54,Random (Postprandial),152.0,No,No,No,Prediabetic
+69,Random (Postprandial),144.0,No,Yes,Yes,Prediabetic
+68,Fasting,122.0,Yes,Yes,No,Prediabetic
+22,Fasting,148.0,No,No,Yes,Diabetic
+41,Fasting,103.0,No,No,No,Prediabetic
+74,Random (Postprandial),86.0,No,No,No,Normal
+61,HbA1c,5.4,Yes,No,No,Normal
+76,HbA1c,5.8,Yes,No,No,Prediabetic
+63,Fasting,60.0,No,Yes,No,Normal
+32,Fasting,128.0,No,No,No,Diabetic
+44,Random (Postprandial),116.0,Yes,No,No,Normal
+44,HbA1c,6.6,No,No,Yes,Diabetic
+36,Fasting,111.0,No,Yes,No,Prediabetic
+70,Random (Postprandial),136.0,No,No,No,Normal
+62,HbA1c,7.8,No,Yes,Yes,Diabetic
+84,Random (Postprandial),125.0,No,Yes,Yes,Normal
+25,HbA1c,5.3,No,Yes,No,Normal
+69,Fasting,114.0,No,No,No,Prediabetic
+80,Fasting,130.0,No,No,No,Diabetic
+50,Fasting,105.0,No,No,No,Prediabetic
+20,Fasting,76.0,No,No,Yes,Normal
+19,HbA1c,6.8,No,No,No,Diabetic
+26,Fasting,123.0,Yes,Yes,No,Prediabetic
+77,Random (Postprandial),243.0,No,Yes,Yes,Diabetic
+65,Fasting,98.0,No,No,Yes,Normal
+63,Fasting,111.0,No,No,Yes,Prediabetic
+33,Fasting,88.0,No,No,Yes,Normal
+24,Fasting,60.0,No,Yes,Yes,Normal
+19,Random (Postprandial),153.0,No,No,Yes,Prediabetic
+42,Random (Postprandial),188.0,No,No,No,Prediabetic
+76,Fasting,75.0,No,No,Yes,Normal
+63,Random (Postprandial),120.0,No,Yes,No,Normal
+40,Fasting,70.0,Yes,No,Yes,Normal
+17,Fasting,145.0,No,No,No,Diabetic
+56,Fasting,86.0,Yes,No,Yes,Normal
+31,Fasting,122.0,No,No,Yes,Prediabetic
+74,Fasting,79.0,Yes,No,Yes,Normal
+80,HbA1c,6.1,No,No,No,Prediabetic
+59,Random (Postprandial),122.0,No,No,Yes,Normal
+45,Fasting,60.0,No,No,No,Normal
+84,Fasting,107.0,No,No,Yes,Prediabetic
+61,Fasting,121.0,No,No,No,Prediabetic
+53,Fasting,60.0,No,No,No,Normal
+82,Fasting,100.0,Yes,No,No,Normal
+73,Random (Postprandial),131.0,No,Yes,No,Normal
+48,HbA1c,4.8,No,No,Yes,Normal
+73,Fasting,97.0,Yes,Yes,No,Normal
+78,Random (Postprandial),70.0,No,No,No,Normal
+67,Random (Postprandial),161.0,No,Yes,No,Prediabetic
+29,Random (Postprandial),203.0,No,No,No,Diabetic
+67,Fasting,67.0,No,No,Yes,Normal
+64,Random (Postprandial),147.0,Yes,No,No,Prediabetic
+47,HbA1c,7.6,Yes,No,No,Diabetic
+80,Random (Postprandial),156.0,No,No,Yes,Prediabetic
+51,Fasting,89.0,Yes,Yes,Yes,Normal
+78,Random (Postprandial),109.0,No,No,Yes,Normal
+63,Random (Postprandial),158.0,No,Yes,No,Prediabetic
+39,Random (Postprandial),144.0,No,No,No,Prediabetic
+40,Fasting,124.0,No,No,Yes,Prediabetic
+35,HbA1c,4.3,Yes,No,No,Normal
+36,HbA1c,7.2,No,Yes,Yes,Diabetic
+29,Fasting,93.0,No,Yes,No,Normal
+41,Random (Postprandial),179.0,No,No,No,Prediabetic
+68,Fasting,83.0,No,No,Yes,Normal
+15,HbA1c,4.6,Yes,Yes,No,Normal
+26,Random (Postprandial),124.0,No,No,No,Normal
+64,Random (Postprandial),107.0,No,Yes,No,Normal
+80,Random (Postprandial),133.0,Yes,No,No,Normal
+23,Fasting,124.0,No,No,No,Prediabetic
+56,Fasting,137.0,No,No,No,Diabetic
+84,Fasting,111.0,No,No,Yes,Prediabetic
+19,Random (Postprandial),126.0,No,No,Yes,Normal
+79,Fasting,91.0,No,No,Yes,Normal
+39,HbA1c,6.7,No,No,No,Diabetic
+15,Fasting,139.0,No,No,No,Diabetic
+79,Fasting,95.0,No,No,Yes,Normal
+76,Fasting,101.0,No,No,No,Prediabetic
+40,Random (Postprandial),116.0,No,Yes,Yes,Normal
+52,Random (Postprandial),159.0,Yes,No,No,Prediabetic
+41,Random (Postprandial),193.0,Yes,No,No,Prediabetic
+59,Fasting,60.0,No,Yes,Yes,Normal
+78,Random (Postprandial),161.0,No,No,Yes,Prediabetic
+66,Fasting,88.0,No,Yes,No,Normal
+78,Random (Postprandial),70.0,Yes,No,No,Normal
+24,Random (Postprandial),164.0,No,No,No,Prediabetic
+34,Fasting,102.0,Yes,No,No,Prediabetic
+52,Random (Postprandial),167.0,No,Yes,No,Prediabetic
+31,Random (Postprandial),89.0,No,No,Yes,Normal
+74,Fasting,169.0,No,No,Yes,Diabetic
+36,Random (Postprandial),155.0,No,Yes,No,Prediabetic
+70,Fasting,95.0,Yes,No,No,Normal
+84,HbA1c,7.7,Yes,Yes,No,Diabetic
+42,Random (Postprandial),179.0,No,No,No,Prediabetic
+70,Fasting,130.0,Yes,No,No,Diabetic
+20,Random (Postprandial),202.0,No,No,Yes,Diabetic
+28,Fasting,60.0,No,No,Yes,Normal
+18,Random (Postprandial),225.0,No,No,Yes,Diabetic
+34,Random (Postprandial),134.0,No,Yes,Yes,Normal
+24,Fasting,114.0,No,Yes,Yes,Prediabetic
+25,HbA1c,7.0,No,Yes,Yes,Diabetic
+58,Fasting,84.0,No,No,No,Normal
+40,Random (Postprandial),164.0,No,No,No,Prediabetic
+75,Fasting,128.0,No,No,Yes,Diabetic
+17,Fasting,104.0,No,No,Yes,Prediabetic
+54,Random (Postprandial),172.0,No,Yes,No,Prediabetic
+74,Random (Postprandial),78.0,No,Yes,No,Normal
+27,HbA1c,4.7,No,No,No,Normal
+31,Random (Postprandial),98.0,No,No,No,Normal
+45,Fasting,116.0,Yes,No,No,Prediabetic
+65,HbA1c,10.1,Yes,No,Yes,Diabetic
+23,Fasting,113.0,No,No,No,Prediabetic
+33,Fasting,101.0,No,Yes,Yes,Prediabetic
+38,Random (Postprandial),147.0,No,Yes,No,Prediabetic
+18,Fasting,134.0,No,No,No,Diabetic
+62,Fasting,126.0,No,No,No,Diabetic
+73,HbA1c,4.7,No,No,No,Normal
+64,Fasting,136.0,No,No,No,Diabetic
+32,HbA1c,6.0,No,No,No,Prediabetic
+64,Random (Postprandial),187.0,No,No,No,Prediabetic
+35,Fasting,60.0,No,No,No,Normal
+56,Fasting,60.0,No,No,No,Normal
+60,Fasting,123.0,Yes,No,No,Prediabetic
+20,HbA1c,4.0,No,Yes,Yes,Normal
+66,Fasting,117.0,Yes,No,No,Prediabetic
+34,Fasting,115.0,Yes,No,Yes,Prediabetic
+49,Fasting,109.0,No,No,No,Prediabetic
+62,HbA1c,6.4,Yes,No,No,Prediabetic
+65,Fasting,113.0,No,No,No,Prediabetic
+43,Random (Postprandial),170.0,No,No,No,Prediabetic
+25,Fasting,93.0,No,No,Yes,Normal
+83,HbA1c,6.0,No,Yes,Yes,Prediabetic
+56,Random (Postprandial),282.0,No,Yes,Yes,Diabetic
+71,Fasting,139.0,Yes,No,No,Diabetic
+15,HbA1c,6.7,No,No,Yes,Diabetic
+40,Fasting,117.0,Yes,No,Yes,Prediabetic
+81,Random (Postprandial),117.0,No,No,No,Normal
+41,Random (Postprandial),160.0,No,Yes,No,Prediabetic
+40,Fasting,98.0,No,No,Yes,Normal
+41,Fasting,133.0,No,No,No,Diabetic
+81,Fasting,78.0,No,Yes,Yes,Normal
+15,Fasting,60.0,No,No,No,Normal
+69,Fasting,88.0,Yes,No,No,Normal
+65,Fasting,126.0,No,Yes,No,Prediabetic
+75,HbA1c,8.7,No,No,No,Diabetic
+31,Fasting,136.0,No,Yes,Yes,Diabetic
+69,Random (Postprandial),106.0,No,Yes,No,Normal
+15,Fasting,98.0,Yes,No,No,Normal
+31,Fasting,76.0,No,No,No,Normal
+15,Random (Postprandial),142.0,No,No,Yes,Prediabetic
+77,HbA1c,5.0,Yes,No,No,Normal
+21,Fasting,60.0,No,Yes,Yes,Normal
+63,Fasting,118.0,Yes,Yes,Yes,Prediabetic
+77,HbA1c,6.2,No,Yes,No,Prediabetic
+45,Fasting,100.0,Yes,Yes,No,Normal
+34,Fasting,115.0,No,No,No,Prediabetic
+22,Random (Postprandial),241.0,No,No,No,Diabetic
+69,HbA1c,6.1,No,No,Yes,Prediabetic
+57,Random (Postprandial),133.0,No,No,No,Normal
+74,Random (Postprandial),189.0,Yes,No,No,Prediabetic
+53,Fasting,60.0,Yes,No,No,Normal
+40,Random (Postprandial),184.0,Yes,Yes,No,Prediabetic
+50,HbA1c,5.1,No,Yes,No,Normal
+37,HbA1c,5.1,Yes,No,Yes,Normal
+32,Random (Postprandial),155.0,No,Yes,No,Prediabetic
+18,Fasting,155.0,Yes,Yes,No,Diabetic
+40,Fasting,83.0,Yes,No,Yes,Normal
+21,Fasting,134.0,No,No,No,Diabetic
+69,Random (Postprandial),167.0,No,No,Yes,Prediabetic
+75,Random (Postprandial),87.0,No,Yes,No,Normal
+63,Fasting,132.0,No,No,No,Diabetic
+69,Random (Postprandial),113.0,No,No,No,Normal
+76,Fasting,61.0,No,No,Yes,Normal
+82,Random (Postprandial),114.0,Yes,No,No,Normal
+46,Fasting,83.0,No,No,No,Normal
+72,Fasting,123.0,No,No,No,Prediabetic
+76,Fasting,83.0,Yes,No,No,Normal
+67,Fasting,150.0,Yes,No,Yes,Diabetic
+73,HbA1c,6.2,No,No,No,Prediabetic
+40,Fasting,83.0,Yes,Yes,No,Normal
+28,HbA1c,5.1,Yes,No,Yes,Normal
+24,Random (Postprandial),160.0,Yes,No,No,Prediabetic
+31,Fasting,60.0,No,Yes,No,Normal
+48,Random (Postprandial),70.0,No,No,No,Normal
+32,Fasting,78.0,No,No,No,Normal
+25,Random (Postprandial),178.0,No,Yes,No,Prediabetic
+36,Fasting,110.0,No,No,No,Prediabetic
+15,Random (Postprandial),151.0,Yes,Yes,No,Prediabetic
+23,Fasting,99.0,No,Yes,Yes,Normal
+50,Fasting,60.0,No,No,Yes,Normal
+48,HbA1c,5.6,No,Yes,Yes,Normal
+69,Fasting,60.0,No,No,No,Normal
+33,Random (Postprandial),188.0,No,No,Yes,Prediabetic
+34,Random (Postprandial),150.0,No,No,Yes,Prediabetic
+58,Fasting,102.0,No,No,No,Prediabetic
+51,Random (Postprandial),168.0,No,Yes,No,Prediabetic
+70,HbA1c,6.4,Yes,Yes,Yes,Prediabetic
+79,Fasting,112.0,No,No,Yes,Prediabetic
+30,Random (Postprandial),166.0,No,No,Yes,Prediabetic
+20,Fasting,87.0,No,Yes,No,Normal
+55,Random (Postprandial),90.0,No,Yes,No,Normal
+55,Fasting,115.0,No,Yes,No,Prediabetic
+44,Random (Postprandial),215.0,No,No,No,Diabetic
+25,Random (Postprandial),196.0,Yes,No,No,Prediabetic
+51,Random (Postprandial),140.0,No,No,Yes,Prediabetic
+45,Fasting,123.0,Yes,No,No,Prediabetic
+18,Random (Postprandial),130.0,No,No,Yes,Normal
+60,Fasting,117.0,No,No,Yes,Prediabetic
+66,Random (Postprandial),123.0,No,No,Yes,Normal
+60,Fasting,109.0,Yes,No,No,Prediabetic
+41,Fasting,165.0,Yes,No,Yes,Diabetic
+84,Random (Postprandial),185.0,No,Yes,No,Prediabetic
+77,Random (Postprandial),217.0,Yes,No,Yes,Diabetic
+43,Random (Postprandial),115.0,No,No,No,Normal
+83,HbA1c,5.2,No,No,Yes,Normal
+44,Fasting,104.0,No,No,Yes,Prediabetic
+15,Fasting,122.0,No,No,No,Prediabetic
+53,Fasting,99.0,No,No,Yes,Normal
+81,Random (Postprandial),196.0,Yes,Yes,No,Prediabetic
+80,Fasting,88.0,No,Yes,Yes,Normal
+55,Fasting,146.0,No,No,Yes,Diabetic
+16,Fasting,134.0,No,No,No,Diabetic
+19,Fasting,72.0,Yes,No,Yes,Normal
+35,Fasting,122.0,Yes,No,Yes,Prediabetic
+80,Fasting,98.0,No,No,No,Normal
+65,Fasting,136.0,No,No,No,Diabetic
+21,Fasting,89.0,No,Yes,No,Normal
+61,HbA1c,6.3,No,No,No,Prediabetic
+19,Fasting,121.0,Yes,No,Yes,Prediabetic
+79,Random (Postprandial),70.0,Yes,No,No,Normal
+45,Random (Postprandial),70.0,No,No,Yes,Normal
+33,Fasting,109.0,No,No,Yes,Prediabetic
+15,Fasting,101.0,No,No,No,Prediabetic
+54,HbA1c,7.1,No,No,No,Diabetic
+62,Fasting,112.0,No,No,Yes,Prediabetic
+17,Random (Postprandial),93.0,No,No,No,Normal
+45,Random (Postprandial),165.0,No,No,Yes,Prediabetic
+77,Fasting,82.0,No,Yes,No,Normal
+50,HbA1c,5.7,No,No,Yes,Prediabetic
+83,Random (Postprandial),127.0,Yes,No,No,Normal
+34,Random (Postprandial),166.0,No,No,No,Prediabetic
+16,Random (Postprandial),86.0,No,Yes,No,Normal
+83,Fasting,71.0,No,No,No,Normal
+21,Random (Postprandial),70.0,No,No,Yes,Normal
+42,Fasting,169.0,No,No,No,Diabetic
+55,HbA1c,4.9,Yes,No,No,Normal
+57,Random (Postprandial),111.0,No,No,No,Normal
+53,Fasting,70.0,No,No,No,Normal
+23,Fasting,86.0,No,Yes,No,Normal
+66,HbA1c,5.5,No,Yes,No,Normal
+36,Random (Postprandial),178.0,No,No,Yes,Prediabetic
+40,Fasting,110.0,No,No,No,Prediabetic
+84,Fasting,115.0,No,Yes,No,Prediabetic
+60,Fasting,87.0,No,Yes,No,Normal
+46,HbA1c,5.9,No,Yes,Yes,Prediabetic
+69,Fasting,142.0,No,No,No,Diabetic
+71,HbA1c,6.0,No,No,Yes,Prediabetic
+49,HbA1c,6.3,No,Yes,No,Prediabetic
+44,Fasting,60.0,No,No,No,Normal
+75,Fasting,120.0,No,No,No,Prediabetic
+38,Random (Postprandial),162.0,No,Yes,No,Prediabetic
+38,Random (Postprandial),208.0,No,No,No,Diabetic
+56,HbA1c,4.0,No,No,Yes,Normal
+81,HbA1c,6.0,No,No,No,Prediabetic
+28,Fasting,101.0,Yes,No,No,Prediabetic
+21,Fasting,107.0,No,No,No,Prediabetic
+23,Fasting,86.0,No,No,No,Normal
+41,Random (Postprandial),159.0,No,Yes,Yes,Prediabetic
+76,Random (Postprandial),181.0,No,Yes,No,Prediabetic
+52,Fasting,106.0,No,No,No,Prediabetic
+80,Random (Postprandial),136.0,No,No,No,Normal
+23,HbA1c,5.7,No,Yes,Yes,Prediabetic
+23,HbA1c,5.6,No,Yes,No,Normal
+53,HbA1c,6.0,No,No,No,Prediabetic
+56,HbA1c,5.2,Yes,No,No,Normal
+84,HbA1c,4.0,No,No,No,Normal
+60,Fasting,145.0,No,No,No,Diabetic
+39,HbA1c,4.0,No,Yes,No,Normal
+36,Fasting,101.0,No,Yes,Yes,Prediabetic
+25,Fasting,65.0,No,No,Yes,Normal
+33,Fasting,96.0,Yes,No,No,Normal
+40,HbA1c,4.9,Yes,No,No,Normal
+38,Random (Postprandial),147.0,No,No,No,Prediabetic
+31,Fasting,79.0,No,No,No,Normal
+23,Fasting,65.0,No,No,Yes,Normal
+67,HbA1c,6.3,No,No,Yes,Prediabetic
+22,Random (Postprandial),209.0,No,No,No,Diabetic
+81,Fasting,114.0,No,No,No,Prediabetic
+79,Fasting,107.0,Yes,No,Yes,Prediabetic
+20,Fasting,72.0,Yes,No,Yes,Normal
+51,Fasting,101.0,No,No,Yes,Prediabetic
+66,Random (Postprandial),169.0,No,No,Yes,Prediabetic
+30,Fasting,84.0,No,No,No,Normal
+48,Random (Postprandial),189.0,No,Yes,No,Prediabetic
+67,HbA1c,5.9,No,No,No,Prediabetic
+61,Random (Postprandial),164.0,No,Yes,Yes,Prediabetic
+63,Fasting,89.0,No,No,Yes,Normal
+66,Fasting,89.0,Yes,No,No,Normal
+71,Fasting,110.0,No,No,No,Prediabetic
+59,Random (Postprandial),165.0,No,No,No,Prediabetic
+30,Fasting,114.0,No,No,Yes,Prediabetic
+33,Fasting,73.0,Yes,Yes,No,Normal
+79,Fasting,82.0,No,No,Yes,Normal
+68,Fasting,103.0,No,No,No,Prediabetic
+68,HbA1c,4.0,Yes,No,No,Normal
+73,Random (Postprandial),195.0,No,Yes,Yes,Prediabetic
+81,Fasting,113.0,Yes,Yes,No,Prediabetic
+56,Random (Postprandial),150.0,Yes,No,No,Prediabetic
+16,Random (Postprandial),116.0,No,No,Yes,Normal
+70,Random (Postprandial),185.0,No,No,No,Prediabetic
+69,Fasting,95.0,No,No,Yes,Normal
+35,Fasting,161.0,Yes,No,No,Diabetic
+46,HbA1c,6.4,No,No,No,Prediabetic
+58,Random (Postprandial),81.0,Yes,No,No,Normal
+82,Random (Postprandial),180.0,Yes,No,No,Prediabetic
+28,Fasting,88.0,Yes,No,No,Normal
+84,Random (Postprandial),124.0,No,No,No,Normal
+35,Fasting,96.0,No,Yes,No,Normal
+54,Fasting,100.0,No,No,No,Normal
+82,Fasting,111.0,No,No,Yes,Prediabetic
+29,Fasting,126.0,Yes,No,No,Diabetic
+34,Fasting,117.0,No,No,No,Prediabetic
+58,Random (Postprandial),115.0,No,No,No,Normal
+53,Random (Postprandial),87.0,Yes,Yes,No,Normal
+31,Random (Postprandial),111.0,No,Yes,Yes,Normal
+22,Fasting,114.0,No,Yes,No,Prediabetic
+62,Fasting,129.0,No,No,No,Diabetic
+47,Fasting,157.0,No,No,Yes,Diabetic
+72,Fasting,63.0,Yes,No,Yes,Normal
+71,Fasting,106.0,No,Yes,No,Prediabetic
+49,HbA1c,5.7,Yes,No,Yes,Normal
+83,HbA1c,5.5,No,No,No,Normal
+24,Fasting,107.0,No,Yes,Yes,Prediabetic
+61,Fasting,96.0,Yes,Yes,No,Normal
+29,HbA1c,5.6,No,No,No,Normal
+15,Random (Postprandial),118.0,No,No,No,Normal
+73,Fasting,115.0,Yes,No,No,Prediabetic
+47,Fasting,135.0,No,No,No,Diabetic
+25,Fasting,152.0,No,No,Yes,Diabetic
+53,Random (Postprandial),124.0,Yes,No,No,Normal
+77,Random (Postprandial),100.0,Yes,Yes,No,Normal
+52,Random (Postprandial),136.0,No,No,No,Normal
+25,Random (Postprandial),110.0,No,Yes,No,Normal
+55,Fasting,134.0,No,No,No,Diabetic
+24,Random (Postprandial),110.0,No,No,No,Normal
+40,HbA1c,6.0,Yes,No,No,Prediabetic
+45,Fasting,63.0,Yes,No,No,Normal
+70,Fasting,93.0,Yes,No,No,Normal
+75,Random (Postprandial),156.0,No,Yes,No,Prediabetic
+36,Fasting,149.0,Yes,No,Yes,Diabetic
+41,HbA1c,5.2,No,No,No,Normal
+76,Fasting,114.0,Yes,No,No,Prediabetic
+39,Fasting,60.0,No,No,No,Normal
+58,HbA1c,4.6,No,No,No,Normal
+38,Fasting,79.0,No,Yes,No,Normal
+20,HbA1c,5.4,Yes,No,Yes,Normal
+61,Fasting,116.0,Yes,Yes,No,Prediabetic
+30,Fasting,122.0,Yes,No,No,Prediabetic
+35,Fasting,60.0,Yes,Yes,No,Normal
+62,Fasting,119.0,No,No,Yes,Prediabetic
+71,Fasting,70.0,No,Yes,Yes,Normal
+16,Fasting,158.0,Yes,Yes,No,Diabetic
+75,Fasting,113.0,Yes,No,No,Prediabetic
+58,HbA1c,6.1,No,Yes,Yes,Prediabetic
+25,HbA1c,5.7,No,No,No,Prediabetic
+71,Random (Postprandial),146.0,No,No,Yes,Prediabetic
+71,HbA1c,5.9,Yes,No,No,Prediabetic
+80,HbA1c,5.2,No,No,No,Normal
+27,Fasting,125.0,No,No,Yes,Prediabetic
+25,Fasting,111.0,No,No,Yes,Prediabetic
+25,Random (Postprandial),181.0,No,No,No,Prediabetic
+65,Fasting,101.0,Yes,Yes,Yes,Prediabetic
+64,Fasting,123.0,No,No,Yes,Prediabetic
+56,HbA1c,5.1,No,Yes,No,Normal
+82,HbA1c,9.9,No,No,No,Diabetic
+67,Random (Postprandial),115.0,Yes,No,No,Normal
+39,Random (Postprandial),127.0,No,No,No,Normal
+52,Random (Postprandial),190.0,No,Yes,No,Prediabetic
+49,HbA1c,7.3,No,No,Yes,Diabetic
+46,Fasting,79.0,No,No,No,Normal
+70,Random (Postprandial),72.0,No,No,No,Normal
+79,Fasting,61.0,Yes,No,No,Normal
+63,Fasting,73.0,No,No,No,Normal
+65,Random (Postprandial),112.0,No,Yes,Yes,Normal
+43,Fasting,98.0,No,No,No,Normal
+32,Fasting,134.0,Yes,Yes,No,Diabetic
+30,Fasting,135.0,Yes,Yes,Yes,Diabetic
+50,Random (Postprandial),120.0,No,No,Yes,Normal
+32,Fasting,119.0,No,No,No,Prediabetic
+74,HbA1c,6.9,No,No,No,Diabetic
+24,Random (Postprandial),210.0,No,No,Yes,Diabetic
+17,Random (Postprandial),140.0,No,Yes,No,Normal
+24,HbA1c,5.1,No,No,Yes,Normal
+81,Fasting,125.0,No,Yes,Yes,Prediabetic
+43,Fasting,148.0,No,No,Yes,Diabetic
+65,HbA1c,5.4,No,No,No,Normal
+68,HbA1c,8.1,Yes,No,No,Diabetic
+55,Fasting,155.0,No,No,No,Diabetic
+49,Random (Postprandial),135.0,No,Yes,No,Normal
+78,Fasting,60.0,Yes,No,No,Normal
+80,Fasting,85.0,Yes,No,Yes,Normal
+48,Fasting,92.0,Yes,No,No,Normal
+62,Fasting,119.0,No,No,Yes,Prediabetic
+16,Fasting,60.0,No,No,No,Normal
+44,HbA1c,8.6,No,No,Yes,Diabetic
+57,Fasting,173.0,No,Yes,No,Diabetic
+72,Fasting,81.0,Yes,Yes,No,Normal
+49,Fasting,60.0,No,No,Yes,Normal
+53,Fasting,98.0,No,No,No,Normal
+45,Fasting,116.0,Yes,No,No,Prediabetic
+70,Fasting,143.0,No,No,No,Diabetic
+62,Random (Postprandial),179.0,No,Yes,Yes,Prediabetic
+60,Fasting,97.0,No,Yes,Yes,Normal
+40,Fasting,60.0,No,No,No,Normal
+38,Fasting,118.0,No,No,Yes,Prediabetic
+72,Random (Postprandial),185.0,No,Yes,No,Prediabetic
+49,Fasting,94.0,Yes,No,No,Normal
+23,Fasting,111.0,No,No,No,Prediabetic
+76,Fasting,109.0,No,No,Yes,Prediabetic
+23,Fasting,96.0,No,No,No,Normal
+67,Fasting,68.0,Yes,No,No,Normal
+72,Fasting,113.0,No,Yes,No,Prediabetic
+58,Random (Postprandial),83.0,No,Yes,Yes,Normal
+70,Fasting,145.0,Yes,Yes,Yes,Diabetic
+25,HbA1c,4.9,No,No,No,Normal
+67,Fasting,118.0,Yes,No,No,Prediabetic
+36,Fasting,81.0,No,No,No,Normal
+40,Random (Postprandial),164.0,No,No,Yes,Prediabetic
+70,Random (Postprandial),137.0,Yes,No,No,Normal
+71,HbA1c,6.5,No,No,Yes,Diabetic
+60,Fasting,79.0,No,No,No,Normal
+24,Random (Postprandial),73.0,Yes,No,No,Normal
+73,HbA1c,5.6,No,No,Yes,Normal
+57,Fasting,92.0,No,No,No,Normal
+53,Fasting,60.0,Yes,No,No,Normal
+55,Random (Postprandial),116.0,No,No,No,Normal
+24,Fasting,60.0,No,No,Yes,Normal
+19,HbA1c,6.0,No,No,Yes,Prediabetic
+37,Random (Postprandial),130.0,No,No,No,Normal
+44,HbA1c,5.9,No,No,No,Prediabetic
+64,Fasting,181.0,No,No,No,Diabetic
+56,Random (Postprandial),154.0,No,No,Yes,Prediabetic
+59,Fasting,114.0,No,No,No,Prediabetic
+49,Fasting,122.0,Yes,No,No,Prediabetic
+55,Random (Postprandial),140.0,No,No,No,Prediabetic
+55,HbA1c,5.3,Yes,No,No,Normal
+37,Fasting,129.0,Yes,No,No,Diabetic
+21,Fasting,134.0,No,No,No,Diabetic
+43,Fasting,60.0,Yes,Yes,No,Normal
+36,Fasting,98.0,No,No,Yes,Normal
+17,Random (Postprandial),131.0,Yes,Yes,Yes,Normal
+78,Fasting,86.0,No,Yes,No,Normal
+19,Fasting,140.0,No,No,Yes,Diabetic
+38,Random (Postprandial),123.0,No,No,No,Normal
+23,Random (Postprandial),185.0,No,Yes,No,Prediabetic
+44,Fasting,86.0,No,Yes,No,Normal
+41,Fasting,90.0,Yes,No,Yes,Normal
+59,Random (Postprandial),179.0,No,No,No,Prediabetic
+52,Fasting,81.0,Yes,No,Yes,Normal
+42,Fasting,98.0,Yes,No,Yes,Normal
+60,Random (Postprandial),97.0,No,No,No,Normal
+27,Random (Postprandial),107.0,No,No,Yes,Normal
+60,Fasting,124.0,No,No,Yes,Prediabetic
+18,Random (Postprandial),173.0,Yes,No,Yes,Prediabetic
+69,Random (Postprandial),95.0,No,Yes,Yes,Normal
+67,HbA1c,4.6,No,Yes,No,Normal
+32,Fasting,179.0,No,Yes,Yes,Diabetic
+79,Random (Postprandial),118.0,No,No,No,Normal
+61,Fasting,77.0,Yes,Yes,No,Normal
+69,Random (Postprandial),169.0,No,Yes,No,Prediabetic
+23,Random (Postprandial),112.0,No,No,No,Normal
+34,HbA1c,5.5,No,No,No,Normal
+17,Random (Postprandial),187.0,Yes,Yes,No,Prediabetic
+77,Fasting,133.0,No,No,No,Diabetic
+60,Random (Postprandial),138.0,No,Yes,Yes,Normal
+33,Fasting,143.0,No,No,Yes,Diabetic
+67,Random (Postprandial),140.0,No,No,No,Normal
+59,Fasting,95.0,No,No,Yes,Normal
+72,Fasting,102.0,Yes,No,No,Prediabetic
+66,Random (Postprandial),133.0,No,Yes,No,Normal
+38,Fasting,118.0,Yes,Yes,No,Prediabetic
+35,Random (Postprandial),159.0,No,Yes,No,Prediabetic
+40,Random (Postprandial),112.0,No,No,Yes,Normal
+18,Random (Postprandial),154.0,No,Yes,No,Prediabetic
+82,HbA1c,5.3,No,No,Yes,Normal
+58,Fasting,85.0,No,No,Yes,Normal
+77,Fasting,98.0,No,No,Yes,Normal
+46,Fasting,133.0,No,No,No,Diabetic
+31,Fasting,111.0,No,No,Yes,Prediabetic
+53,Fasting,141.0,No,No,No,Diabetic
+19,Random (Postprandial),217.0,No,No,Yes,Diabetic
+18,Fasting,102.0,No,No,Yes,Prediabetic
+67,Fasting,84.0,No,No,No,Normal
+34,HbA1c,5.0,Yes,No,No,Normal
+39,Random (Postprandial),159.0,Yes,Yes,Yes,Prediabetic
+18,Fasting,129.0,Yes,No,No,Diabetic
+65,Fasting,150.0,No,Yes,Yes,Diabetic
+32,Random (Postprandial),88.0,No,No,No,Normal
+24,Random (Postprandial),188.0,No,No,Yes,Prediabetic
+42,Fasting,135.0,No,Yes,No,Diabetic
+28,Fasting,176.0,Yes,No,No,Diabetic
+53,HbA1c,6.1,No,No,Yes,Prediabetic
+28,Fasting,102.0,No,No,No,Prediabetic
+83,HbA1c,4.2,Yes,No,No,Normal
+58,Random (Postprandial),112.0,No,No,Yes,Normal
+45,Fasting,70.0,No,No,Yes,Normal
+20,Random (Postprandial),101.0,No,No,Yes,Normal
+27,Fasting,76.0,No,No,No,Normal
+55,Fasting,60.0,Yes,No,Yes,Normal
+55,Random (Postprandial),143.0,No,No,No,Prediabetic
+45,Fasting,114.0,No,No,No,Prediabetic
+73,HbA1c,6.8,No,No,Yes,Diabetic
+18,Random (Postprandial),142.0,No,Yes,Yes,Prediabetic
+74,Fasting,135.0,No,No,No,Diabetic
+51,Fasting,135.0,Yes,No,No,Diabetic
+35,Fasting,60.0,No,No,No,Normal
+52,Random (Postprandial),135.0,No,No,Yes,Normal
+46,Fasting,65.0,Yes,Yes,No,Normal
+27,Random (Postprandial),103.0,No,Yes,No,Normal
+19,Random (Postprandial),155.0,No,Yes,No,Prediabetic
+19,HbA1c,5.8,Yes,No,No,Prediabetic
+74,Fasting,147.0,Yes,Yes,No,Diabetic
+35,Fasting,164.0,No,No,No,Diabetic
+59,Fasting,116.0,No,No,No,Prediabetic
+19,Fasting,97.0,Yes,No,No,Normal
+66,Fasting,99.0,No,No,No,Normal
+26,Fasting,103.0,No,No,Yes,Prediabetic
+58,Random (Postprandial),173.0,Yes,Yes,Yes,Prediabetic
+23,Fasting,81.0,No,No,Yes,Normal
+18,Fasting,121.0,Yes,No,No,Prediabetic
+45,Fasting,96.0,No,No,No,Normal
+53,Fasting,135.0,No,Yes,No,Diabetic
+70,Random (Postprandial),209.0,Yes,No,No,Diabetic
+51,Fasting,155.0,No,No,No,Diabetic
+24,HbA1c,5.8,Yes,No,No,Prediabetic
+15,Random (Postprandial),87.0,No,Yes,No,Normal
+46,Fasting,60.0,Yes,No,No,Normal
+78,Fasting,94.0,No,Yes,No,Normal
+56,Random (Postprandial),84.0,No,Yes,Yes,Normal
+29,Random (Postprandial),73.0,No,Yes,No,Normal
+67,Fasting,93.0,No,Yes,Yes,Normal
+84,Random (Postprandial),103.0,No,No,Yes,Normal
+27,Fasting,124.0,Yes,No,Yes,Prediabetic
+78,Random (Postprandial),235.0,Yes,No,No,Diabetic
+43,Random (Postprandial),137.0,No,No,No,Normal
+47,HbA1c,6.3,No,Yes,No,Prediabetic
+84,Random (Postprandial),77.0,No,Yes,No,Normal
+51,HbA1c,6.1,No,Yes,Yes,Prediabetic
+33,Fasting,82.0,No,No,No,Normal
+18,Fasting,71.0,Yes,No,No,Normal
+36,Fasting,60.0,No,Yes,No,Normal
+56,HbA1c,7.7,No,No,Yes,Diabetic
+82,Fasting,60.0,No,No,No,Normal
+21,Random (Postprandial),93.0,No,Yes,Yes,Normal
+76,Random (Postprandial),148.0,No,Yes,No,Prediabetic
+72,Random (Postprandial),161.0,No,No,No,Prediabetic
+17,Fasting,112.0,Yes,No,No,Prediabetic
+15,Fasting,107.0,No,Yes,Yes,Prediabetic
+31,Fasting,77.0,No,No,No,Normal
+21,Fasting,127.0,Yes,No,No,Diabetic
+23,Fasting,109.0,No,No,No,Prediabetic
+46,Random (Postprandial),83.0,Yes,No,Yes,Normal
+80,Fasting,152.0,No,No,Yes,Diabetic
+34,HbA1c,5.6,No,No,No,Normal
+48,Random (Postprandial),191.0,No,Yes,No,Prediabetic
+35,Fasting,60.0,Yes,No,Yes,Normal
+44,Random (Postprandial),95.0,No,Yes,Yes,Normal
+73,Fasting,87.0,No,Yes,No,Normal
+82,Fasting,83.0,No,Yes,No,Normal
+61,HbA1c,7.1,No,Yes,No,Diabetic
+60,Fasting,60.0,Yes,No,Yes,Normal
+63,Random (Postprandial),156.0,Yes,Yes,Yes,Prediabetic
+44,Fasting,73.0,No,Yes,No,Normal
+61,Random (Postprandial),172.0,Yes,Yes,No,Prediabetic
+71,Random (Postprandial),158.0,Yes,No,Yes,Prediabetic
+39,Fasting,87.0,Yes,No,No,Normal
+56,Fasting,171.0,No,No,No,Diabetic
+71,Random (Postprandial),146.0,Yes,No,Yes,Prediabetic
+74,Random (Postprandial),198.0,No,No,No,Prediabetic
+25,Fasting,64.0,Yes,No,No,Normal
+69,Fasting,100.0,No,No,No,Prediabetic
+64,HbA1c,6.1,No,No,No,Prediabetic
+25,Fasting,108.0,No,Yes,No,Prediabetic
+46,Random (Postprandial),133.0,No,No,Yes,Normal
+17,Fasting,79.0,Yes,No,Yes,Normal
+19,Fasting,60.0,No,No,No,Normal
+61,Random (Postprandial),123.0,Yes,No,Yes,Normal
+67,Random (Postprandial),107.0,No,No,Yes,Normal
+40,Random (Postprandial),137.0,No,Yes,No,Normal
+74,Random (Postprandial),187.0,No,Yes,No,Prediabetic
+21,Random (Postprandial),248.0,No,No,No,Diabetic
+74,Random (Postprandial),173.0,No,No,No,Prediabetic
+48,HbA1c,7.1,No,No,Yes,Diabetic
+34,Fasting,123.0,No,No,No,Prediabetic
+44,Random (Postprandial),182.0,No,No,No,Prediabetic
+55,Random (Postprandial),175.0,No,No,No,Prediabetic
+16,Fasting,96.0,No,No,No,Normal
+27,Fasting,95.0,No,No,No,Normal
+33,Random (Postprandial),164.0,No,No,No,Prediabetic
+31,Random (Postprandial),230.0,No,No,Yes,Diabetic
+76,Fasting,128.0,No,No,No,Diabetic
+75,Random (Postprandial),222.0,No,No,Yes,Diabetic
+25,Fasting,66.0,No,Yes,Yes,Normal
+80,Fasting,112.0,No,Yes,Yes,Prediabetic
+43,Random (Postprandial),167.0,No,No,No,Prediabetic
+33,Random (Postprandial),173.0,Yes,Yes,No,Prediabetic
+63,Fasting,63.0,Yes,No,No,Normal
+82,Fasting,60.0,No,No,Yes,Normal
+38,Random (Postprandial),70.0,No,Yes,No,Normal
+56,Random (Postprandial),132.0,No,No,Yes,Normal
+59,Random (Postprandial),255.0,No,Yes,No,Diabetic
+63,Fasting,111.0,Yes,No,Yes,Prediabetic
+40,Random (Postprandial),95.0,No,No,No,Normal
+39,Random (Postprandial),165.0,Yes,No,Yes,Prediabetic
+63,HbA1c,5.7,No,No,No,Normal
+83,Fasting,110.0,No,No,Yes,Prediabetic
+80,HbA1c,5.5,No,No,Yes,Normal
+22,Fasting,66.0,No,No,No,Normal
+34,Fasting,89.0,No,No,No,Normal
+42,Fasting,126.0,No,No,No,Diabetic
+69,Random (Postprandial),163.0,Yes,No,No,Prediabetic
+72,HbA1c,7.3,No,Yes,No,Diabetic
+24,Fasting,73.0,No,No,Yes,Normal
+42,Random (Postprandial),197.0,Yes,No,Yes,Prediabetic
+23,Fasting,107.0,No,No,No,Prediabetic
+28,Random (Postprandial),159.0,No,No,No,Prediabetic
+77,Fasting,143.0,Yes,No,Yes,Diabetic
+67,Fasting,101.0,No,No,Yes,Prediabetic
+68,Fasting,113.0,Yes,No,No,Prediabetic
+29,Random (Postprandial),179.0,No,Yes,No,Prediabetic
+67,Random (Postprandial),180.0,No,No,Yes,Prediabetic
+24,Random (Postprandial),187.0,Yes,Yes,Yes,Prediabetic
+29,Random (Postprandial),209.0,No,Yes,No,Diabetic
+70,Fasting,121.0,Yes,No,No,Prediabetic
+42,HbA1c,5.5,No,No,No,Normal
+33,Random (Postprandial),261.0,Yes,No,No,Diabetic
+76,HbA1c,6.0,Yes,No,Yes,Prediabetic
+64,Fasting,117.0,No,No,Yes,Prediabetic
+52,Random (Postprandial),118.0,No,No,No,Normal
+47,Fasting,60.0,No,Yes,Yes,Normal
+22,Fasting,83.0,No,Yes,No,Normal
+58,HbA1c,6.1,No,No,No,Prediabetic
+44,Fasting,122.0,Yes,No,No,Prediabetic
+62,Fasting,107.0,No,No,No,Prediabetic
+39,Random (Postprandial),187.0,No,No,No,Prediabetic
+71,HbA1c,7.1,Yes,Yes,Yes,Diabetic
+54,Random (Postprandial),196.0,Yes,Yes,No,Prediabetic
+55,HbA1c,6.0,No,No,No,Prediabetic
+34,HbA1c,6.1,No,Yes,Yes,Prediabetic
+26,Fasting,100.0,Yes,No,Yes,Normal
+79,Fasting,80.0,Yes,No,No,Normal
+47,Fasting,149.0,No,No,Yes,Diabetic
+67,Fasting,69.0,No,No,Yes,Normal
+76,Random (Postprandial),149.0,Yes,No,Yes,Prediabetic
+77,HbA1c,6.3,No,Yes,No,Prediabetic
+21,Fasting,60.0,Yes,Yes,No,Normal
+64,Random (Postprandial),185.0,No,No,Yes,Prediabetic
+41,Random (Postprandial),136.0,No,No,Yes,Normal
+45,Random (Postprandial),162.0,No,No,No,Prediabetic
+15,Fasting,96.0,Yes,Yes,No,Normal
+25,Fasting,60.0,No,No,Yes,Normal
+36,Random (Postprandial),161.0,No,Yes,Yes,Prediabetic
+83,Random (Postprandial),157.0,No,No,No,Prediabetic
+16,Fasting,136.0,No,No,No,Diabetic
+61,Fasting,120.0,No,No,Yes,Prediabetic
+25,Fasting,60.0,Yes,No,No,Normal
+66,HbA1c,7.3,Yes,No,No,Diabetic
+73,Random (Postprandial),188.0,No,Yes,No,Prediabetic
+55,HbA1c,6.9,No,Yes,No,Diabetic
+54,Random (Postprandial),174.0,No,No,Yes,Prediabetic
+35,Fasting,85.0,Yes,No,No,Normal
+47,Random (Postprandial),176.0,No,Yes,Yes,Prediabetic
+61,Fasting,95.0,No,Yes,No,Normal
+71,Random (Postprandial),282.0,Yes,Yes,Yes,Diabetic
+21,Fasting,99.0,No,No,No,Normal
+79,Fasting,73.0,No,Yes,No,Normal
+25,HbA1c,5.7,Yes,No,No,Normal
+19,Fasting,149.0,No,Yes,No,Diabetic
+27,HbA1c,5.4,No,No,No,Normal
+19,Random (Postprandial),70.0,No,No,No,Normal
+74,Fasting,150.0,No,No,No,Diabetic
+22,Fasting,116.0,No,No,Yes,Prediabetic
+27,Fasting,91.0,No,Yes,No,Normal
+23,Random (Postprandial),184.0,No,No,No,Prediabetic
+27,Random (Postprandial),110.0,Yes,No,No,Normal
+37,Fasting,71.0,No,Yes,No,Normal
+36,Fasting,135.0,No,No,No,Diabetic
+58,HbA1c,5.5,No,Yes,No,Normal
+82,Fasting,122.0,No,No,No,Prediabetic
+46,HbA1c,6.1,No,No,No,Prediabetic
+79,Random (Postprandial),189.0,No,No,Yes,Prediabetic
+79,Fasting,110.0,No,No,No,Prediabetic
+56,Random (Postprandial),70.0,No,No,Yes,Normal
+25,Fasting,127.0,Yes,No,Yes,Diabetic
+68,Random (Postprandial),131.0,Yes,Yes,No,Normal
+40,Random (Postprandial),192.0,No,No,No,Prediabetic
+25,Fasting,110.0,No,No,No,Prediabetic
+28,Fasting,149.0,Yes,No,Yes,Diabetic
+60,Fasting,97.0,No,No,No,Normal
+32,Fasting,60.0,Yes,Yes,No,Normal
+19,Fasting,97.0,No,No,No,Normal
+24,Random (Postprandial),175.0,Yes,No,No,Prediabetic
+77,Fasting,96.0,Yes,Yes,Yes,Normal
+52,Random (Postprandial),131.0,No,No,Yes,Normal
+28,Fasting,150.0,Yes,No,No,Diabetic
+47,Fasting,102.0,No,No,Yes,Prediabetic
+39,Random (Postprandial),199.0,No,No,Yes,Prediabetic
+60,Random (Postprandial),159.0,Yes,No,No,Prediabetic
+18,Fasting,63.0,No,No,Yes,Normal
+25,Fasting,78.0,No,No,Yes,Normal
+46,Random (Postprandial),138.0,No,Yes,Yes,Normal
+61,HbA1c,6.4,No,No,No,Prediabetic
+72,Fasting,82.0,No,No,No,Normal
+22,Fasting,64.0,No,No,Yes,Normal
+32,Random (Postprandial),106.0,No,No,No,Normal
+31,Fasting,91.0,Yes,No,No,Normal
+28,Random (Postprandial),112.0,No,Yes,Yes,Normal
+37,HbA1c,5.4,Yes,No,No,Normal
+79,Fasting,162.0,Yes,Yes,No,Diabetic
+80,Fasting,115.0,No,Yes,Yes,Prediabetic
+59,Fasting,82.0,No,No,Yes,Normal
+16,Random (Postprandial),151.0,No,No,Yes,Prediabetic
+56,HbA1c,7.8,No,No,No,Diabetic
+46,Random (Postprandial),181.0,Yes,Yes,Yes,Prediabetic
+18,Fasting,103.0,No,No,No,Prediabetic
+67,Fasting,65.0,No,Yes,No,Normal
+27,Random (Postprandial),75.0,No,No,No,Normal
+29,HbA1c,5.7,No,No,No,Normal
+62,Fasting,103.0,Yes,No,No,Prediabetic
+54,Fasting,60.0,No,No,No,Normal
+80,Random (Postprandial),91.0,Yes,No,No,Normal
+28,Fasting,105.0,Yes,No,No,Prediabetic
+15,HbA1c,4.0,Yes,Yes,Yes,Normal
+84,Fasting,60.0,No,No,Yes,Normal
+25,Fasting,104.0,Yes,No,Yes,Prediabetic
+42,Random (Postprandial),177.0,No,No,No,Prediabetic
+34,Fasting,116.0,No,Yes,No,Prediabetic
+80,Fasting,136.0,Yes,Yes,No,Diabetic
+70,Fasting,153.0,No,No,No,Diabetic
+19,Random (Postprandial),192.0,No,Yes,No,Prediabetic
+51,Fasting,98.0,Yes,No,No,Normal
+46,Fasting,170.0,No,No,No,Diabetic
+40,Fasting,157.0,No,Yes,No,Diabetic
+18,Random (Postprandial),194.0,No,No,No,Prediabetic
+26,Fasting,82.0,No,Yes,Yes,Normal
+79,Random (Postprandial),170.0,No,No,No,Prediabetic
+56,HbA1c,4.0,Yes,No,Yes,Normal
+15,Fasting,96.0,Yes,No,No,Normal
+47,Fasting,60.0,No,Yes,No,Normal
+62,Random (Postprandial),133.0,No,Yes,No,Normal
